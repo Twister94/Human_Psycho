@@ -3,15 +3,24 @@
 You will find some notes when I read books (French, English or Spanish)
 
 Progression : 
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- []
+- [] Stolen Focus
+- [] Deep Work
+- [] Hyperfocus
+- [] Mindreader
+- [] Eat that Frog - 
+- [] Build a second brain - Tiago Forte
+- [] Unlock the power of you
+- [] The Art of Dealing with People
+- [] Mini philosophy - A small Book of big ideas
+- [] The War of Art - Steven Pressfield
+- [] Turning Pro - Steven Pressfield
+- [] Dopamine Detox
+
+
+- [] Le pouvoir rhétorique - Clément Viktorovitch
+- [] L'essentiel de l'éloquence
+- [] L'essentiel pour convaincre
+
 - []
 - []
 - []
