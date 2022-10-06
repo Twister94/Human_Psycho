@@ -15,13 +15,345 @@ Progression :
 - [] The War of Art - Steven Pressfield
 - [] Turning Pro - Steven Pressfield
 - [] Dopamine Detox
-
+- [] 21 Lessons for the 21st Century - Yuval Noah Harari
+- [] Atomic Habits - James Clear
+- [] Boundaries - When to Say Yes, How to Say No to Take Control of Your Life - Henry Cloud
+- [] Bullshit Jobs - David Graeber
+- [] Daily Self-Discipline_ Everyday Habits and Exercises to Build Self-Discipline and Achieve Your Goals
+- [] Daring Greatly - How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead - Brené Brown
+- [] Deep Work - Cal Newport
+- [] Ego is the Enemy
+- [] Essentialism - The Disciplined Pursuit of Less - Greg McKeown
+- [] Find Your Why -  Simon Sinek
+- [] Getting Things Done - David Allen
+- [] How to take smart notes - Sonke Ahrens
+- [] Hypersensible - Elaine N. Aron
+- [] Influence et Manipulation -
+- [] Intelligence Artificielle - 3e Edition
+- [] Keep Going_ 10 Ways to Stay Creative in Good Times and Bad - Austin Kleon
+- [] La maîtrise de l'amour - Don Miguel Ruiz, Janet Mills
+- [] La mémoire, entre sciences et sociétés
+- [] La psychologie de la manipulation
+- [] La revanche des discrets - Sophia Dembling
+- [] La voix de la connaissance - Don Miguel Ruiz
+- [] Le cerveau attentif
+- [] Le cerveau funambule
+- [] Le Piège Du Bonheur - Créez La Vie Que Vous Voulez - Russ Harris
+- [] Le pouvoir de l'instant présent - Eckhart Tolle
+- [] Le pouvoir des gentils - Les règles d'or de la relation de confiance - Franck Martin
+- [] Le pouvoir du chowa  - La sagesse japonaise de l'harmonie et de l'équilibre
+- [] L'Effet Cumulé - Hardy Darren
+- [] Les 5 blessures qui empêchent d'être soi-même - Lise Bourbeau
+- [] Les 100 schémas du management _ La matrice BCG, les 5 forces de Porter, la roue de Deming, la carte des alliés... et 96 autres ( PDFDrive )
+- [] Les accords toltèques - Don Miguel Ruiz
+- [] Les clefs de la manipulation - Structure du livre
+- [] L'intelligence du stress - Fradin, Jacques
+- [] L'intelligence émotionnelle - Daniel Goleman
+- [] Petit Code de la communication
+- [] Petit traité de manipulation à l'usage des honnêtes gens - Structure du livre
+- [] Show Your Work!_ 10 Ways to Share Your Creativity and Get Discovered ( PDFDrive )
+- [] Start with why - Simon Sinek
+- [] Stillness is the Key - Ryan Holiday
+- [] Superintelligence - Structure du livre
+- [] The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living - Ryan Holiday
+- [] The First 20 Hours - How to Learn Anything . . . Fast! - Josh Kaufman
+- [] The Japanese mind - Understanding contemporary Japanese culture - Roger J.Davies, Osamu Ikeno
+- [] The One Thing - The Surprisingly Simple Truth Behind Extraordinary Results - Gary Keller
+- [] The Power of Now - A Guide to Spiritual Enlightenment - Eckart Tolle
+- [] The Things You Can See Only When You Slow Down - How to Be Calm and Mindful in a Fast-Paced World - Haemin Sumin
+- [] The War of Art_ Break Through the Blocks and Win Your Inner Creative Battles - Steven Pressfield
+- [] Think Again_ How to Reason and Argue
+- [] THINK STRAIGHT_ Change Your Thoughts, Change Your Life
+- [] Thinking, Fast and Slow
+- [] Tout est dans la tête - Eric Albert
+- [] Tremblez mais osez - Susan Jeffers
+- [] Une mémoire extraordinaire - JYP
+- [] Zero to One_ Notes on Startups, or How to Build the Future ( PDFDrive )
+- [] You Can Have An Amazing Memory_ Learn Life-changing Techniques and Tips from the Memory Maestro - Dominic O'Brien
+- [] You Are a Badass_ How to Stop Doubting Your Greatness and Start Living an Awesome Life - Jen Sincero
+- [] www.GrandeBiblio.com-QCM-de-Culture-Generale-Fonction-publique-Grandes-Ecoles
+- [] Why We Sleep_ Unlocking the Power of Sleep and Dreams - Matthew Walker, PHD
+- [] Viewing the Constellations with Binoculars_ 250+ Wonderful Sky Objects to See and Explore (Patrick Moore's Practical Astronomy Series) - Anthony Cooke
+Vehicle Dynamics_ Theory and Application - Reza N.Jazar
+Understanding Normal and Clinical Nutrition, 8th Edition - Sharon Rady Rolfes
+Trees for Gardens, Orchards, and Permaculture - Martin Crawford
+TP Moteur à combustion interne
+Tout le monde n’a pas eu la chance de rater ses études - Olivier Roland
+The Stars.  The Definitive Visual Guide to the Cosmos - DK
+The Self-Taught Programmer_ The Definitive Guide to Programming Professionally - Cory Althoff
+The Secrets of People Who Never Get Sick_ What They Know, Why It Works, and How It - Gene Stone
+The Secret Code of Japanese Candlesticks - Felipe Tudela
+The Science of Good Cooking ( PDFDrive )
+- [] The Science of Formula 1 Design_ Expert analysis of the anatomy of the modern Grand Prix car - David Tremayne
+- [] The Science of Cooking_ Every Question Answered to Perfect Your Cooking - Dr. Stuart Farrimond
+- [] The Python Book_ The ultimate guide to coding with Python -
+- [] The Power of Visual Storytelling_ How to Use Visuals, Videos, and Social Media to Market Your Brand - Dan Roam
+- [] The Power of Self-Esteem - Nathaniel Branden, PH.D
+- [] Livre - The Power of Self-Esteem ( PDFDrive )
+- [] Content
+- [] The Power of Positive Thinking - Dr. Norman Vincent Peale
+- [] Content
+- [] The Miracle Morning_ The Not-So-Obvious Secret Guaranteed to Transform Your Life - Hal Elrod
+- [] The Lucifer Effect_ Understanding How Good People Turn Evil - Philip Zimbardo
+- [] The Japanese Experience_ A Short History of Japan (History of Civilisation) - W.G.Beasley
+- [] The intelligent negotiator_ what to say, what to do, how to get what you want—every time - Charles Craver
+- [] The Food Lab_ Better Home Cooking Through Science ( PDFDrive )
+- [] The Electronics Handbook, Second Edition (Electrical Engineering Handbook) - Jerry C.Whitaker
+- [] The Dip_ A Little Book That Teaches You When to Quit (and When to Stick) - Seth Godin
+- [] Sans titre 2
+- [] The Brain_ The Story of You - David Eagleman
+- [] The Book of Yokai Mysterious Creatures of Japanese Folklore - Michael Dylan Foster
+- [] The Biomedical Engineering Handbook, Third Edition - 3 Volume Set_ Biomedical Engineering Fundamentals (The Biomedical Engineering Handbook, Fourth Edition) - Joseph D.Bronzino & Donald R.Peterson
+- [] The Basics of Bitcoins and Blockchains_ An Introduction to Cryptocurre - Anthony Lewis
+- [] The Art of Work_ A Proven Path to Discovering What You Were Meant to Do - Jeff Goins
+- [] The Art of the Pitch_ Persuasion and Presentation Skills that Win Business - Peter Coughter
+- [] The Anatomy of Story_ 22 Steps to Becoming a Master Storyteller - John Truby
+- [] The Alter Ego Effect - Todd Herman
+- [] The 8085 Microprocessor Architecture , Programming and Interfacing - K.Udaya Kumar & B.S.Umashankar
+- [] The 33 Strategies of War - Robert Greene
+- [] The $100 Startup_ Reinvent the Way You Make a Living, Do What You Love, and Create a New Future - Chris Guillebeau
+- [] Système 1 _ Système 2 _ Les deux vitesses de la pensée - Daniel Kahneman
+- [] Livre - Strategies de négociation - Structure du livre
+- [] Steal Like an Artist_ 10 Things Nobody Told You About Being Creative - Austin Kleon
+- [] Soyez plus malin que les cons qui vous pourrissent la vie _ Techniques de manipulations persuasives pour faire passer vos projets et vos idées - A. Mucchielli
+- [] Sketch Now, Think Later_ Jump Into Urban Sketching with Limited Time, Tools, and Techniques - Mike Yoshiaki Daikubara
+- [] Sécurité informatique _ Principes et méthodes à l'usage des DSI, RSSI et administrateurs - Laurent Bloch & Christophe Wolfhugel
+- [] Scientific Molding Pocket - Routsis Training
+- [] Sapiens_ A Brief History of Humankind - Yuval Noah Harari
+- [] Sans titre
+- [] Réseaux et transmissions - 6e ed - Stéphane Lohier & Dominique Présent
+- [] Rédaction de courriels efficaces suivi de Rédiger avec concision - Nathalène Armand
+- [] Python_Programming_for_Arduino
+- [] Python Scripts for ABAQUS_ Learn by Example - Gautam Puri
+- [] Purple Cow_ Transform Your Business by Being Remarkable - Seth Godin
+- [] Pulkrabek W.W. - Engineering Fundamentals of the Internal Combustion Engine - 1997 - Willard W.Pulkrabek
+- [] Psychologie de la manipulation et de la soumission - Nicolas Guégen
+- [] Content
+- [] Content
+- [] Projet_Méthode des élements finis - Etude et optimisation d'un chaissis tubulaire
+- [] Project Risk Management A Practical Implementation Approach by Bissonette, Michael M. Bissonette, Mike
+- [] Project management workbook and PMPCAPM exam study guide by Kerzner, Harold Saladis, Frank P. Saladis
+- [] Pro HTML5 and CSS3 Design Patterns - Michael Bowers, Dionysios Synodinos & Victor Summer.
+- [] Power system dynamics stability and control by Jan Machowski, Janusz Bialek, Dr Jim Bumby
+- [] Sans titre
+- [] Power Electronics by Ps bimbhra ( PDFDrive )
+- [] Plasticity for Structural Engineers - Springer Verlag
+- [] Plant Biology and Biotechnology_ Volume I_ Plant Diversity, Organization, Function and Improvement - Bir Bahadur.
+- [] Pitch Perfect_ How to Say It Right the First Time, Every Time ( PDFDrive )
+- [] Pharmaceutical Production - An Engineering Guide - Bill Bennett & Graham Cole
+- [] Permaculture Principles and Pathways Beyond Sustainability - David Holmgren
+- [] Permaculture Design - Aranya
+- [] Peak_ How to Master Almost Anything - Anders Ericsson & Robert Pool
+- [] Panorama de l'Intelligence Artificielle - Ses bases méthodologiques, ses développements - Volume 2, Algorithmes pour l'intelligence artificielle - Pierre Marquis & Odile Papini & Henri Prade
+- [] Optimisation des structures mécaniques.-Dunod - Micheal Bruyneel & Jean-Charles Craveur & Pierre Gourmelen
+- [] Numerical Simulation of Crash-Test For a formula sae car
+- [] Numerical Modelling and Design of Electrical Machines and Devices (Advances in Electrical and Electronic Engineering) (Advances in Electrical and Electronic Engineering, V. 1) - K.Hameyer & R.Belmans
+- [] Notations
+- [] Cal Newport - So good they can't ignore you
+- [] Never Split the Difference_ Negotiating As If Your Life Depended On It - Chris Voss
+- [] Neuroscience_ Exploring the Brain - Mark F.Bear & Barry W. Connors & Micheal A.Paradiso
+- [] Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning - Delip Rao & Brian McMahan
+- [] Nano-Engineering in Science and Technology_ An Introduction to the World of Nano-Design (Series on the Foundations of Natural Science and Technology) - Micheal Rieth
+- [] Nano and Molecular Electronics Handbook (Nano- and Microscience, Engineering, Technology, and Medicines Series) - Sergey Edward Lyshevski
+- [] Motor Vehicle Structures (Automotive Engineering) -
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Make It Stick - Peter C.Brown & Henry L.Roediger & Mark A. McDaniel
+- [] Lonely Planet Japan -
+- [] L'Intelligence Artificielle pour les développeurs - Concepts et implémentations en C# - Virgine Mathivet
+- [] L'essentiel du droit de travail - Dominique GrandGuillot
+- [] L'Esprit et la Machine - Faut-il avoir peur de l'Intelligence Artificielle - Serge Boisse
+- [] Loi 12 - Nous sommes des explorateurs-nés
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Le guide du Super recruteur _ 33 fiches outils pour mener ses entretiens de recrutement - Nathalie Olivier & François Samson
+- [] Le Guerre des intelligences - Dr Laurent ALexandre
+- [] Laugh Tactics_ Master Conversational Humor and Be Funny On Command - Think Quickly on Your Feet - Patrick King
+- [] Livre - L'art de parler_ diction ( PDFDrive )
+- [] L'art de parler_ diction - Emile Sigogne
+- [] L'Art d'avoir toujours raison - Arthur Schopenhauer - PDF
+- [] La soudure à l'arc électrique Des principes aux applications-Eyrolles - Jean-Claude Guichard
+- [] La cuisine japonaise
+- [] La conception mécanique - Dunod - Phillippe Boisseau
+- [] La Blockchain pour les Nuls grand format - Tiana Laurence
+- [] KUKA-Workbook
+- [] Joseph Katz - Race car aerodynamics (Automotive Books & Manuals) - 1995
+- [] Italian vocabulary for English speakers - 5000 words ( PDFDrive )
+- [] Introduction to Machine Learning with Python - Andreas C.Muller & Sarah Guido
+- [] Introduction to Human Nutrition 2nd Edition - Michael J.Gibney & Susan A.Lanham-New & Aedin Cassidy & Hester H Vorster
+- [] Intelligent Optimization of Mold Design and Process Parameters in Injection Molding - Mehdi Moayyedian
+- [] Intelligence Artificielle et Systèmes Multi-Agents - Badr Benmammar
+- [] Informatique et sciences du numérique - Spécialité ISN en terminale S, avec des exercices corrigés et des idées de projets - Gilles Dowek
+- [] Indistractable_ How to Control Your Attention and Choose Your Life - Nir Eyal
+- [] Incognito_ The Secret Lives of the Brain - David Eagleman
+- [] Ikigai _ the Japanese secret to a long and happy life - Hector Garcia & Francesc Miralles
+- [] How We Learn_ The Surprising Truth About When, Where, and Why It Happens - Benedict Carey
+- [] PART TWO SIX WAYS TO MAKE PEOPLE LIKE YOU
+- [] How to Talk to Anyone - Leil Lowndes
+- [] How To Talk To Absolutely Anyone_ Confident Communication in Every Situation - Mark Rhodes
+- [] How to Make Anyone Like You_ Proven Ways To Become A People Magnet - Leil Lowndes
+- [] How to Instantly Connect with Anyone 96 All-New Little Tricks for Big Success in Relationships - Leil Lowndes
+- [] How to Build a Car_ The Autobiography of the World’s Greatest Formula 1 Designer - Adrian Newey
+- [] Livre - How to Be Invisible, Third Edition_ Protect Your Home, Your Children, Your Assets, and Your Life ( PDFDrive )
+- [] How to Be Invisible, Third Edition_ Protect Your Home, Your Children, Your Assets, and Your Life - J.J.Luna
+- [] How an Economy Grows and Why It Crashes. Peter D.Schiff
+- [] Sans titre 2
+- [] Home Robotics_ Maker-Inspired Projects for Building Your Own Robots - Daniel Knox
+- [] Handbook of Mechanical Design - George F.Nordenholt & Joseph Kerr & John Sasso
+- [] Handbook of Electrical Installation Practice - Goeffrey Stokes
+- [] Hager General Catalogue 1220
+- [] Guide_du_Technicien_en_Electronique - C.Cimelli & R.Bourgeron
+- [] Grit_ The Power of Passion and Perseverance - Angela DuckWorth
+- [] Grit to Great_ How Perseverance, Passion, and Pluck Take You from Ordinary to Extraordinary - Linda Kaplan Thaler & Robin Koval
+- [] Appendix
+- [] Good Strategy_Bad Strategy - Richard Rumelt
+- [] Give and Take_ WHY HELPING OTHERS DRIVES OUR SUCCESS - Adam Grant
+- [] Getting (More of) What You Want_ How the Secrets of Economics and Psychology Can Help You Negotiate Anything, in Business and in Life - Margaret A.Neale and Thomas Z.Lys
+- [] General rules of electrical installation design - Schneider Electric ( PDFDrive )
+- [] Fundamentals of Finite Element Analysis_ Linear Finite Element Analysis - Ioannis  Koutromanos
+- [] Fundamentals of Digital Logic and Microcontrollers-Wiley (2014) - M.Rafiquzzaman
+- [] Freakonomics - A Rogue Economist Explores the Hidden Side of Everything - Steven D.Levitt & Stephan J.Dubner
+- [] formula-ford-report-en
+- [] food-microbiology-3rd-ed
+- [] Flow Simulation 2011 Tutorial ( PDFDrive )
+- [] Fine cooking Italian _ 200 recipes for authentic Italian food ( PDFDrive )
+- [] Fine Cooking Comfort Food  200 Delicious Recipes for Soul-Warming Meals ( PDFDrive )
+- [] Excel-2013-avanc-Guide-de-formation-avec-cas-pratiques
+- [] Part VI Content Tools
+- [] Entraînez votre mémoire - Roland Geisselhart
+- [] Engineering Design Handbook - Automotive Series - The Automotive Assembly_ ( PDFDrive )
+- [] Encyclopedia of World Religions_ Judaism, Christianity, Islam, Buddhism, Zen, Hinduism, Prehistoric, & Primitive Religions ( PDFDrive )
+- [] Encyclopedia of Human Nutrition, Third Edition - Benjamin Caballero & Lindsay Allen & Andrew Prentice
+- [] En Cambio, aprendé a modificara tu cerebro para cambiar tu vida y sentirte mejor ( PDFDrive )
+- [] Employee to Entrepreneur_ How to Earn Your Freedom and Do Work That Matters - Steve Glaveski
+- [] Electronics and Circuit Analysis Using MATLAB - John O. Attia
+- [] Electronic and Electrical Engineering Principles and Practice by Lionel Warnes - Lionel Warnes
+- [] Electrical installation handbook Protection, control and electrical devices - ABB
+- [] Electrical and Electronics Measurements and Instrumentation -
+- [] Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005) - Eldad Eilam
+- [] El sutil arte de que te importe un carajo - Un enfoque disruptivo para vivir una buena vida - Mark Manson
+- [] PART TWO Constructions
+- [] Part Two The Lesson Applied
+- [] Dynamic_analysis_and_design_of_impact_attenuator_structures_for_a_Formula_Student_prototype_Thesis
+- [] Content
+- [] Dunod - Aide-Mémoire Mécanique Des Structures - Résistance des Matériaux - Dunod - Arnaud Delaplace & Fabrice Gatuingt & Frédéric Ragueneau
+- [] Don't Make Me Think - Steve Krug
+- [] digital-electronics
+- [] Deep Nutrition_ Why Your Genes Need Traditional Food - Catherine Shanahan & Luke Shanahan
+- [] Deep learning_ adaptive computation and machine learning - Ian Goodfellow, Yoshua Bengio
+- [] Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles - Narasimha Karumanchi
+- [] Data Mining Practical Machine Learning Tools and Techniques 2d ed - Ian H. Witten & Eibe Frank
+- [] Data Acquisition in Motorsport_2018_2019_24102018_Exercise
+- [] Customer Centric Selling de John R. Holland & Michael T. Bosworth
+- [] Creative Confidence_ Unleashing the Creative Potential Within Us All - Tom Kelley & David Kelley
+- [] Control Systems Engineering 7th Ed - Norman S.Nise
+- [] Construction_Kart
+- [] Construction Program Management – Decision Making and Optimization Techniques - Ali D. Haidar (auth.)
+- [] Construction industrielle
+- [] Computer Systems_ Digital Design, Fundamentals of Computer Architecture and Assembly Language - Ata Elahi
+- [] Comprehensive Dictionary of Electrical Engineering - Phillip A. Laplante
+- [] Comment plaire en 3 minutes, en tête-à-tête, au travail, en groupe - Patricia Delahaie
+- [] Comment le microbioite gouverne notre cerveau - Structure du livre
+- [] Comment décoder les gestes de vos interlocuteurs et Etre Conscient des Votres - David Cohen
+- [] Sans titre
+- [] PART III WRITING HUMOR FOR SPECIFIC MARKETS
+- [] Coding Projects in Python - DK
+- [] Coding Games in Python - DK
+- [] CODEX - Les biais congitifs
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Brain Training_ Boost Memory, Maximize Mental Agility, & Awaken Your Inner Genius - Tony Buzan
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Content
+- [] Autodesk Robot Structural Analysis Professional 2015 - Essentials - Ken Marsh
+- [] Artificial Intelligence Basics. A Non-Technical Introduction - Tom Taulli
+- [] Art of the Formula 1 Race Car - Peter Windsor
+- [] Arduino Projects To Save The World By Emery Premeaux with Brian Evans
+- [] Apprendre l'électronique en partant de zéro N2
+- [] Apprendre la programmation web avec Python et Django - Hugues Bersini, Pierre Alexis, Gilles Degols - 2e Edition
+- [] Apprentissage artificiel - Concepts et algorithmes - Antoine Cornuéjols, Laurent Miclet, Jean-Paul Haton
+- [] A-Memotech Maintenance - F.Castellazzi, D.Cogniel, Y.Gangloff
+- [] Algorithmes et structures de donnees generiques - Cours et exercices corriges en langage C - Michel Divay
+- [] CHAPITRE 25  •  INTERFACES  GRAPHIQUES
+- [] Advanced mechanics of composite materials and structures - Morozov, Evgeny V. Vasiliev, Valery V.
+- [] Advanced Brain Training - Brain Train Your Way to the Top_ A Teach Yourelf Guide - Simon Wootton & Terry Horne
+- [] Advanced automotive fault diagnosis _ automotive technology_ vehicle maintenance and repair - Tom Denton
+- [] Adopting The Minimalist Mindset_ How To Live With Less, Downsize, And Get More Fulfillment From Life - Brain Night
+- [] Additive Manufacturing Technologies_ 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing ( PDFDrive )
+- [] A19-Micro-et-nano-electronique - Bases, Composants et Circuits - Hervé Fanet
+- [] A Textbook of Automobile Engineering - Sudhir Kumar Saxena
+- [] CLEAN CODE - A Handbook of Agile Software Craftsmanship By Robert C Martin.pdf ( PDFDrive )
+- [] A Geek in Japan - Discovering the Land of Manga, Anime, Zen, and the Tea Ceremony - Hector Garcia
+- [] Content
+- [] Engine Testing Theory and Practice - A.J.Marty - M.A.Plint
+- [] Engine Testing Theory and Practice - A.J.Marty - M.A.Plint
+- [] GUIDE_CONCEPTION_RESEAUX_ELECTRIQUES_INDUS
+- [] MAURIN_FIXATION_Mémotech_fixation
+- [] Guide du dessinateur industriel - Edition 2004 ( PDFDrive )
+- [] 24 Patterns for Clean Code. Techniques for Faster, Safer Code with Minimal Debugging - Robert Beisert
+- [] 16 Jours pour développer la puissance de votre mémoire - Association Pedapole
+- [] 13 Things Mentally Strong People Don't Do_ Take Back Your Power, Embrace Change, Face Your Fears, and Train Your Brain for Happiness and Success ( PDFDrive )
+- [] 12 Rules for Life_ An Antidote to Chaos ( PDFDrive )
+- [] Instant Notes - Plant Biology
+- [] [Siarry,_Patrick]_Automatique_de_base
+- [] ¿Quién aprieta tus botones_. Como manejar la gente dificil en tu vida ( PDFDrive )
+- []
 
 - [] Le pouvoir rhétorique - Clément Viktorovitch
 - [] L'essentiel de l'éloquence
 - [] L'essentiel pour convaincre
-
-- []
+- [] Manuel de génie électrique - Guy Chateigner, Michel Boes, Daniel Bouix, Jacques Vaillant, Daniel Verkindere
 - []
 - []
 - []
