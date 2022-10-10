@@ -72,56 +72,55 @@ Progression :
 - [R] Atomic Habits - James Clear
 	- [ ] [[Lecture notes - Atomic Habits ]]
 - [x] Boundaries - Henry Cloud
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Boundaries]]
 - [R] Bullshit Jobs - David Graeber
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Bullshit Jobs]]
 - [] Daily Self-Discipline - {{Nom_auteur}}
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Daily Self-Discipline]]
 - [R] Daring Greatly - Brené Brown
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Daring Greatly]]
 - [R] Deep Work - Cal Newport
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Deep Work]]
 - [R] Ego is the Enemy - Ryan Holiday
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Ego is the Enemy]]
 - [R] Essentialism - Greg McKeown
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Essentialism]]
 - [R] Find Your Why - Simon Sinek
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Start with Why]]
 - [R] Getting Things Done - David Allen
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Getting things done]]
 - [R] How to take smart notes - Sonke Ahrens
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - How to take smart notes]]
 - [] Keep Going - Austin Kleon
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Keep Going]]
 - [] Show Your Work ! - {{Nom_auteur}}
-	- [ ] [[Lecture notes -]]
-- [R] Start with why - Simon Sinek
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Show your work]]
 - [R] Stillness is the Key - Ryan Holiday
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Stillness is the key]]
 - [R] The Daily Stoic - Ryan Holiday
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - The Daily Stoic]]
 - [R] The First 20 Hours - Josh Kaufman
+	- [ ] [[Lecture notes - The First 20 hours]]
 - [] The Japanese mind - Roger J.Davies, Osamu Ikeno
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Japanese Mind]]
 - [] The One Thing - Gary Keller
-	- [[Lecture notes -]]
+	- [[Lecture notes - The One Thing]]
 - [] The Power of Now - Eckart Tolle
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Power of Now]]
 - [] The Things You Can See Only When You Slow Down - Haemin Sumin
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Things You Can See only when you slow down]]
 - [] The War of Art - Steven Pressfield
-	- [[Lecture notes -]]
+	- [[Lecture notes - The War of Art]]
 - [] Think Again - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Think again]]
 - [] Think Straight - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Think Straight]]
 - [] Thinking, Fast and Slow - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Thinking, Fast and Slow]]
 - [] 284_Zero to One  - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Zero to One]]
 - [] 283_You Can Have An Amazing Memory - Dominic O'Brien
-	- [[Lecture notes -]]
+	- [[Lecture notes - You can]]
 - [] 282_You Are a Badass - Jen Sincero
 	- [[Lecture notes -]]
 - [] 280_Why We Sleep - Matthew Walker
