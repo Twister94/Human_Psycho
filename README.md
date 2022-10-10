@@ -2,367 +2,735 @@
 
 You will find some notes when I read books (French, English or Spanish)
 
+Status : [Read, Summary_Writed, Information_Extracted]
+
 Progression : 
-- [] Stolen Focus
-- [] Deep Work
-- [] Hyperfocus
-- [] Mindreader
-- [] Eat that Frog - 
+- [] The Book of Moods - Lauren Martin
+	- [[Lecture notes - The Book of Moods - Lauren Martin]]
+- [] I can change the I and everyone is I - Tangal
+	- [[Lecture notes - I can change the I and everyone is I]] 
+- [] Outliers - Malcom Gladwell
+	- [[Lecture - Malcom Gladwell]]
+- [] Tiny Habits
+	- [[Lecture notes - Tiny Habits - ]]
+- [] Mindset
+	- [[Lectures notes - Mindset - ]]
+- [] Sparked - Yashika Vahi
+	- [[Lectures notes - Sparked - Yashika Vahi]]
+- [] The Obstacle is the Way - Ryan Holiday
+	-  [[Lecture notes - The Obstacle is the Way - Ryan Holiday]]
+- [] Blue Ocean Strategy - W.Chan Kim
+	- [[Lecture notes -]]
+- [] Tuesdays with Morrie
+	- [[Lecture notes -]]
+- [] The blueprint
+	- [[Lecture notes -]]
+- [] Master your emotions
+	- [[Lecture notes -]]
+- [] The Alchemist
+	- [[Lecture notes -]]
+- [] The Moral compass
+	- [[Lecture notes -]]
+- [] Mentor Morphosis - Akash Khurana 
+	- [[Lecture notes -]]
+- [] Emotional Intelligence - Daniel Goleman
+	- [[Lecture notes -]]
+- [] Small is Big - Amit Acarwal 
+	- [[Lecture notes -]]
+- [] Full circle marketing - Wayne Mullins
+	- [[Lecture notes -]]
+- [] Power of ignored skills - Manoj Tripathi
+	- [[Lecture notes -]]
+- [] Courage is calling - Ryan Holiday
+	- [[Lecture notes -]]
+- [] Stolen Focus - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] Hyperfocus - Chris Balley
+	- [[Lecture notes -]]
+- [] Mindreader - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] Eat that Frog - Brian Tracy
+	- [ ] [[Lecture notes -]]
+- [] The 10x Rule - Grant Cardone
+	- [[Lecture notes -]]
 - [] Build a second brain - Tiago Forte
-- [] Unlock the power of you
-- [] The Art of Dealing with People
-- [] Mini philosophy - A small Book of big ideas
+	- [[Lecture notes -]]
+- [] Unlock the power of you - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] The Art of Dealing with People - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] Mini philosophy - A small Book of big ideas - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] The War of Art - Steven Pressfield
+	- [ ] [[Lecture notes -]]
+- [R] Turning Pro - Steven Pressfield
+	- [ ] [[Lecture notes -]]
+- [] Dopamine Detox - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] 21 Lessons for the 21st Century - Yuval Noah Harari
+	- [ ] [[Lecture notes -]]
+- [R] Atomic Habits - James Clear
+	- [ ] [[Lecture notes -]]
+- [x] Boundaries - Henry Cloud
+- [R] Bullshit Jobs - David Graeber
+- [] Daily Self-Discipline - {{Nom_auteur}}
+- [R] Daring Greatly - Brené Brown
+- [R] Deep Work - Cal Newport
+- [R] Ego is the Enemy - Ryan Holiday
+- [R] Essentialism - Greg McKeown
+- [R] Find Your Why - Simon Sinek
+- [R] Getting Things Done - David Allen
+- [R] How to take smart notes - Sonke Ahrens
+- [] Keep Going - Austin Kleon
+- [] Show Your Work ! - {{Nom_auteur}}
+- [R] Start with why - Simon Sinek
+- [R] Stillness is the Key - Ryan Holiday
+- [R] The Daily Stoic - Ryan Holiday
+- [R] The First 20 Hours - Josh Kaufman
+- [] The Japanese mind - Roger J.Davies, Osamu Ikeno
+	- [[Lecture notes -]]
+- [] The One Thing - Gary Keller
+	- [[Lecture notes -]]
+- [] The Power of Now - Eckart Tolle
+	- [[Lecture notes -]]
+- [] The Things You Can See Only When You Slow Down - Haemin Sumin
+	- [[Lecture notes -]]
 - [] The War of Art - Steven Pressfield
-- [] Turning Pro - Steven Pressfield
-- [] Dopamine Detox
-- [] 21 Lessons for the 21st Century - Yuval Noah Harari
-- [] Atomic Habits - James Clear
-- [] Boundaries - When to Say Yes, How to Say No to Take Control of Your Life - Henry Cloud
-- [] Bullshit Jobs - David Graeber
-- [] Daily Self-Discipline_ Everyday Habits and Exercises to Build Self-Discipline and Achieve Your Goals
-- [] Daring Greatly - How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead - Brené Brown
-- [] Deep Work - Cal Newport
-- [] Ego is the Enemy
-- [] Essentialism - The Disciplined Pursuit of Less - Greg McKeown
-- [] Find Your Why -  Simon Sinek
-- [] Getting Things Done - David Allen
-- [] How to take smart notes - Sonke Ahrens
-- [] Hypersensible - Elaine N. Aron
-- [] Influence et Manipulation -
-- [] Intelligence Artificielle - 3e Edition
-- [] Keep Going_ 10 Ways to Stay Creative in Good Times and Bad - Austin Kleon
-- [] La maîtrise de l'amour - Don Miguel Ruiz, Janet Mills
-- [] La mémoire, entre sciences et sociétés
-- [] La psychologie de la manipulation
-- [] La revanche des discrets - Sophia Dembling
-- [] La voix de la connaissance - Don Miguel Ruiz
-- [] Le cerveau attentif
-- [] Le cerveau funambule
-- [] Le Piège Du Bonheur - Créez La Vie Que Vous Voulez - Russ Harris
-- [] Le pouvoir de l'instant présent - Eckhart Tolle
-- [] Le pouvoir des gentils - Les règles d'or de la relation de confiance - Franck Martin
-- [] Le pouvoir du chowa  - La sagesse japonaise de l'harmonie et de l'équilibre
-- [] L'Effet Cumulé - Hardy Darren
-- [] Les 5 blessures qui empêchent d'être soi-même - Lise Bourbeau
-- [] Les 100 schémas du management _ La matrice BCG, les 5 forces de Porter, la roue de Deming, la carte des alliés... et 96 autres ( PDFDrive )
-- [] Les accords toltèques - Don Miguel Ruiz
-- [] Les clefs de la manipulation - Structure du livre
-- [] L'intelligence du stress - Fradin, Jacques
-- [] L'intelligence émotionnelle - Daniel Goleman
-- [] Petit Code de la communication
-- [] Petit traité de manipulation à l'usage des honnêtes gens - Structure du livre
-- [] Show Your Work!_ 10 Ways to Share Your Creativity and Get Discovered ( PDFDrive )
-- [] Start with why - Simon Sinek
-- [] Stillness is the Key - Ryan Holiday
-- [] Superintelligence - Structure du livre
-- [] The Daily Stoic - 366 Meditations on Wisdom, Perseverance, and the Art of Living - Ryan Holiday
-- [] The First 20 Hours - How to Learn Anything . . . Fast! - Josh Kaufman
-- [] The Japanese mind - Understanding contemporary Japanese culture - Roger J.Davies, Osamu Ikeno
-- [] The One Thing - The Surprisingly Simple Truth Behind Extraordinary Results - Gary Keller
-- [] The Power of Now - A Guide to Spiritual Enlightenment - Eckart Tolle
-- [] The Things You Can See Only When You Slow Down - How to Be Calm and Mindful in a Fast-Paced World - Haemin Sumin
-- [] The War of Art_ Break Through the Blocks and Win Your Inner Creative Battles - Steven Pressfield
-- [] Think Again_ How to Reason and Argue
-- [] THINK STRAIGHT_ Change Your Thoughts, Change Your Life
-- [] Thinking, Fast and Slow
-- [] Tout est dans la tête - Eric Albert
-- [] Tremblez mais osez - Susan Jeffers
-- [] Une mémoire extraordinaire - JYP
-- [] Zero to One_ Notes on Startups, or How to Build the Future ( PDFDrive )
-- [] You Can Have An Amazing Memory_ Learn Life-changing Techniques and Tips from the Memory Maestro - Dominic O'Brien
-- [] You Are a Badass_ How to Stop Doubting Your Greatness and Start Living an Awesome Life - Jen Sincero
-- [] www.GrandeBiblio.com-QCM-de-Culture-Generale-Fonction-publique-Grandes-Ecoles
-- [] Why We Sleep_ Unlocking the Power of Sleep and Dreams - Matthew Walker, PHD
-- [] Viewing the Constellations with Binoculars_ 250+ Wonderful Sky Objects to See and Explore (Patrick Moore's Practical Astronomy Series) - Anthony Cooke
-Vehicle Dynamics_ Theory and Application - Reza N.Jazar
-Understanding Normal and Clinical Nutrition, 8th Edition - Sharon Rady Rolfes
-Trees for Gardens, Orchards, and Permaculture - Martin Crawford
-TP Moteur à combustion interne
-Tout le monde n’a pas eu la chance de rater ses études - Olivier Roland
-The Stars.  The Definitive Visual Guide to the Cosmos - DK
-The Self-Taught Programmer_ The Definitive Guide to Programming Professionally - Cory Althoff
-The Secrets of People Who Never Get Sick_ What They Know, Why It Works, and How It - Gene Stone
-The Secret Code of Japanese Candlesticks - Felipe Tudela
-The Science of Good Cooking ( PDFDrive )
-- [] The Science of Formula 1 Design_ Expert analysis of the anatomy of the modern Grand Prix car - David Tremayne
-- [] The Science of Cooking_ Every Question Answered to Perfect Your Cooking - Dr. Stuart Farrimond
-- [] The Python Book_ The ultimate guide to coding with Python -
-- [] The Power of Visual Storytelling_ How to Use Visuals, Videos, and Social Media to Market Your Brand - Dan Roam
-- [] The Power of Self-Esteem - Nathaniel Branden, PH.D
-- [] Livre - The Power of Self-Esteem ( PDFDrive )
-- [] Content
-- [] The Power of Positive Thinking - Dr. Norman Vincent Peale
-- [] Content
-- [] The Miracle Morning_ The Not-So-Obvious Secret Guaranteed to Transform Your Life - Hal Elrod
-- [] The Lucifer Effect_ Understanding How Good People Turn Evil - Philip Zimbardo
-- [] The Japanese Experience_ A Short History of Japan (History of Civilisation) - W.G.Beasley
-- [] The intelligent negotiator_ what to say, what to do, how to get what you want—every time - Charles Craver
-- [] The Food Lab_ Better Home Cooking Through Science ( PDFDrive )
-- [] The Electronics Handbook, Second Edition (Electrical Engineering Handbook) - Jerry C.Whitaker
-- [] The Dip_ A Little Book That Teaches You When to Quit (and When to Stick) - Seth Godin
-- [] Sans titre 2
-- [] The Brain_ The Story of You - David Eagleman
-- [] The Book of Yokai Mysterious Creatures of Japanese Folklore - Michael Dylan Foster
-- [] The Biomedical Engineering Handbook, Third Edition - 3 Volume Set_ Biomedical Engineering Fundamentals (The Biomedical Engineering Handbook, Fourth Edition) - Joseph D.Bronzino & Donald R.Peterson
-- [] The Basics of Bitcoins and Blockchains_ An Introduction to Cryptocurre - Anthony Lewis
-- [] The Art of Work_ A Proven Path to Discovering What You Were Meant to Do - Jeff Goins
-- [] The Art of the Pitch_ Persuasion and Presentation Skills that Win Business - Peter Coughter
-- [] The Anatomy of Story_ 22 Steps to Becoming a Master Storyteller - John Truby
-- [] The Alter Ego Effect - Todd Herman
-- [] The 8085 Microprocessor Architecture , Programming and Interfacing - K.Udaya Kumar & B.S.Umashankar
-- [] The 33 Strategies of War - Robert Greene
-- [] The $100 Startup_ Reinvent the Way You Make a Living, Do What You Love, and Create a New Future - Chris Guillebeau
-- [] Système 1 _ Système 2 _ Les deux vitesses de la pensée - Daniel Kahneman
-- [] Livre - Strategies de négociation - Structure du livre
-- [] Steal Like an Artist_ 10 Things Nobody Told You About Being Creative - Austin Kleon
-- [] Soyez plus malin que les cons qui vous pourrissent la vie _ Techniques de manipulations persuasives pour faire passer vos projets et vos idées - A. Mucchielli
-- [] Sketch Now, Think Later_ Jump Into Urban Sketching with Limited Time, Tools, and Techniques - Mike Yoshiaki Daikubara
-- [] Sécurité informatique _ Principes et méthodes à l'usage des DSI, RSSI et administrateurs - Laurent Bloch & Christophe Wolfhugel
-- [] Scientific Molding Pocket - Routsis Training
-- [] Sapiens_ A Brief History of Humankind - Yuval Noah Harari
-- [] Sans titre
-- [] Réseaux et transmissions - 6e ed - Stéphane Lohier & Dominique Présent
-- [] Rédaction de courriels efficaces suivi de Rédiger avec concision - Nathalène Armand
-- [] Python_Programming_for_Arduino
-- [] Python Scripts for ABAQUS_ Learn by Example - Gautam Puri
-- [] Purple Cow_ Transform Your Business by Being Remarkable - Seth Godin
-- [] Pulkrabek W.W. - Engineering Fundamentals of the Internal Combustion Engine - 1997 - Willard W.Pulkrabek
-- [] Psychologie de la manipulation et de la soumission - Nicolas Guégen
-- [] Content
-- [] Content
-- [] Projet_Méthode des élements finis - Etude et optimisation d'un chaissis tubulaire
-- [] Project Risk Management A Practical Implementation Approach by Bissonette, Michael M. Bissonette, Mike
-- [] Project management workbook and PMPCAPM exam study guide by Kerzner, Harold Saladis, Frank P. Saladis
-- [] Pro HTML5 and CSS3 Design Patterns - Michael Bowers, Dionysios Synodinos & Victor Summer.
-- [] Power system dynamics stability and control by Jan Machowski, Janusz Bialek, Dr Jim Bumby
-- [] Sans titre
-- [] Power Electronics by Ps bimbhra ( PDFDrive )
-- [] Plasticity for Structural Engineers - Springer Verlag
-- [] Plant Biology and Biotechnology_ Volume I_ Plant Diversity, Organization, Function and Improvement - Bir Bahadur.
-- [] Pitch Perfect_ How to Say It Right the First Time, Every Time ( PDFDrive )
-- [] Pharmaceutical Production - An Engineering Guide - Bill Bennett & Graham Cole
-- [] Permaculture Principles and Pathways Beyond Sustainability - David Holmgren
-- [] Permaculture Design - Aranya
-- [] Peak_ How to Master Almost Anything - Anders Ericsson & Robert Pool
-- [] Panorama de l'Intelligence Artificielle - Ses bases méthodologiques, ses développements - Volume 2, Algorithmes pour l'intelligence artificielle - Pierre Marquis & Odile Papini & Henri Prade
-- [] Optimisation des structures mécaniques.-Dunod - Micheal Bruyneel & Jean-Charles Craveur & Pierre Gourmelen
-- [] Numerical Simulation of Crash-Test For a formula sae car
-- [] Numerical Modelling and Design of Electrical Machines and Devices (Advances in Electrical and Electronic Engineering) (Advances in Electrical and Electronic Engineering, V. 1) - K.Hameyer & R.Belmans
-- [] Notations
-- [] Cal Newport - So good they can't ignore you
-- [] Never Split the Difference_ Negotiating As If Your Life Depended On It - Chris Voss
-- [] Neuroscience_ Exploring the Brain - Mark F.Bear & Barry W. Connors & Micheal A.Paradiso
-- [] Natural Language Processing with PyTorch_ Build Intelligent Language Applications Using Deep Learning - Delip Rao & Brian McMahan
-- [] Nano-Engineering in Science and Technology_ An Introduction to the World of Nano-Design (Series on the Foundations of Natural Science and Technology) - Micheal Rieth
-- [] Nano and Molecular Electronics Handbook (Nano- and Microscience, Engineering, Technology, and Medicines Series) - Sergey Edward Lyshevski
-- [] Motor Vehicle Structures (Automotive Engineering) -
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Make It Stick - Peter C.Brown & Henry L.Roediger & Mark A. McDaniel
-- [] Lonely Planet Japan -
-- [] L'Intelligence Artificielle pour les développeurs - Concepts et implémentations en C# - Virgine Mathivet
-- [] L'essentiel du droit de travail - Dominique GrandGuillot
-- [] L'Esprit et la Machine - Faut-il avoir peur de l'Intelligence Artificielle - Serge Boisse
-- [] Loi 12 - Nous sommes des explorateurs-nés
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Le guide du Super recruteur _ 33 fiches outils pour mener ses entretiens de recrutement - Nathalie Olivier & François Samson
-- [] Le Guerre des intelligences - Dr Laurent ALexandre
-- [] Laugh Tactics_ Master Conversational Humor and Be Funny On Command - Think Quickly on Your Feet - Patrick King
-- [] Livre - L'art de parler_ diction ( PDFDrive )
-- [] L'art de parler_ diction - Emile Sigogne
-- [] L'Art d'avoir toujours raison - Arthur Schopenhauer - PDF
-- [] La soudure à l'arc électrique Des principes aux applications-Eyrolles - Jean-Claude Guichard
-- [] La cuisine japonaise
-- [] La conception mécanique - Dunod - Phillippe Boisseau
-- [] La Blockchain pour les Nuls grand format - Tiana Laurence
-- [] KUKA-Workbook
-- [] Joseph Katz - Race car aerodynamics (Automotive Books & Manuals) - 1995
-- [] Italian vocabulary for English speakers - 5000 words ( PDFDrive )
-- [] Introduction to Machine Learning with Python - Andreas C.Muller & Sarah Guido
-- [] Introduction to Human Nutrition 2nd Edition - Michael J.Gibney & Susan A.Lanham-New & Aedin Cassidy & Hester H Vorster
-- [] Intelligent Optimization of Mold Design and Process Parameters in Injection Molding - Mehdi Moayyedian
-- [] Intelligence Artificielle et Systèmes Multi-Agents - Badr Benmammar
-- [] Informatique et sciences du numérique - Spécialité ISN en terminale S, avec des exercices corrigés et des idées de projets - Gilles Dowek
-- [] Indistractable_ How to Control Your Attention and Choose Your Life - Nir Eyal
-- [] Incognito_ The Secret Lives of the Brain - David Eagleman
-- [] Ikigai _ the Japanese secret to a long and happy life - Hector Garcia & Francesc Miralles
-- [] How We Learn_ The Surprising Truth About When, Where, and Why It Happens - Benedict Carey
-- [] PART TWO SIX WAYS TO MAKE PEOPLE LIKE YOU
-- [] How to Talk to Anyone - Leil Lowndes
-- [] How To Talk To Absolutely Anyone_ Confident Communication in Every Situation - Mark Rhodes
-- [] How to Make Anyone Like You_ Proven Ways To Become A People Magnet - Leil Lowndes
-- [] How to Instantly Connect with Anyone 96 All-New Little Tricks for Big Success in Relationships - Leil Lowndes
-- [] How to Build a Car_ The Autobiography of the World’s Greatest Formula 1 Designer - Adrian Newey
-- [] Livre - How to Be Invisible, Third Edition_ Protect Your Home, Your Children, Your Assets, and Your Life ( PDFDrive )
-- [] How to Be Invisible, Third Edition_ Protect Your Home, Your Children, Your Assets, and Your Life - J.J.Luna
-- [] How an Economy Grows and Why It Crashes. Peter D.Schiff
-- [] Sans titre 2
-- [] Home Robotics_ Maker-Inspired Projects for Building Your Own Robots - Daniel Knox
-- [] Handbook of Mechanical Design - George F.Nordenholt & Joseph Kerr & John Sasso
-- [] Handbook of Electrical Installation Practice - Goeffrey Stokes
-- [] Hager General Catalogue 1220
-- [] Guide_du_Technicien_en_Electronique - C.Cimelli & R.Bourgeron
-- [] Grit_ The Power of Passion and Perseverance - Angela DuckWorth
-- [] Grit to Great_ How Perseverance, Passion, and Pluck Take You from Ordinary to Extraordinary - Linda Kaplan Thaler & Robin Koval
-- [] Appendix
-- [] Good Strategy_Bad Strategy - Richard Rumelt
-- [] Give and Take_ WHY HELPING OTHERS DRIVES OUR SUCCESS - Adam Grant
-- [] Getting (More of) What You Want_ How the Secrets of Economics and Psychology Can Help You Negotiate Anything, in Business and in Life - Margaret A.Neale and Thomas Z.Lys
-- [] General rules of electrical installation design - Schneider Electric ( PDFDrive )
-- [] Fundamentals of Finite Element Analysis_ Linear Finite Element Analysis - Ioannis  Koutromanos
-- [] Fundamentals of Digital Logic and Microcontrollers-Wiley (2014) - M.Rafiquzzaman
-- [] Freakonomics - A Rogue Economist Explores the Hidden Side of Everything - Steven D.Levitt & Stephan J.Dubner
-- [] formula-ford-report-en
-- [] food-microbiology-3rd-ed
-- [] Flow Simulation 2011 Tutorial ( PDFDrive )
-- [] Fine cooking Italian _ 200 recipes for authentic Italian food ( PDFDrive )
-- [] Fine Cooking Comfort Food  200 Delicious Recipes for Soul-Warming Meals ( PDFDrive )
-- [] Excel-2013-avanc-Guide-de-formation-avec-cas-pratiques
-- [] Part VI Content Tools
-- [] Entraînez votre mémoire - Roland Geisselhart
-- [] Engineering Design Handbook - Automotive Series - The Automotive Assembly_ ( PDFDrive )
-- [] Encyclopedia of World Religions_ Judaism, Christianity, Islam, Buddhism, Zen, Hinduism, Prehistoric, & Primitive Religions ( PDFDrive )
-- [] Encyclopedia of Human Nutrition, Third Edition - Benjamin Caballero & Lindsay Allen & Andrew Prentice
-- [] En Cambio, aprendé a modificara tu cerebro para cambiar tu vida y sentirte mejor ( PDFDrive )
-- [] Employee to Entrepreneur_ How to Earn Your Freedom and Do Work That Matters - Steve Glaveski
-- [] Electronics and Circuit Analysis Using MATLAB - John O. Attia
-- [] Electronic and Electrical Engineering Principles and Practice by Lionel Warnes - Lionel Warnes
-- [] Electrical installation handbook Protection, control and electrical devices - ABB
-- [] Electrical and Electronics Measurements and Instrumentation -
-- [] Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005) - Eldad Eilam
-- [] El sutil arte de que te importe un carajo - Un enfoque disruptivo para vivir una buena vida - Mark Manson
-- [] PART TWO Constructions
-- [] Part Two The Lesson Applied
-- [] Dynamic_analysis_and_design_of_impact_attenuator_structures_for_a_Formula_Student_prototype_Thesis
-- [] Content
-- [] Dunod - Aide-Mémoire Mécanique Des Structures - Résistance des Matériaux - Dunod - Arnaud Delaplace & Fabrice Gatuingt & Frédéric Ragueneau
-- [] Don't Make Me Think - Steve Krug
-- [] digital-electronics
-- [] Deep Nutrition_ Why Your Genes Need Traditional Food - Catherine Shanahan & Luke Shanahan
-- [] Deep learning_ adaptive computation and machine learning - Ian Goodfellow, Yoshua Bengio
-- [] Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles - Narasimha Karumanchi
-- [] Data Mining Practical Machine Learning Tools and Techniques 2d ed - Ian H. Witten & Eibe Frank
-- [] Data Acquisition in Motorsport_2018_2019_24102018_Exercise
-- [] Customer Centric Selling de John R. Holland & Michael T. Bosworth
-- [] Creative Confidence_ Unleashing the Creative Potential Within Us All - Tom Kelley & David Kelley
-- [] Control Systems Engineering 7th Ed - Norman S.Nise
-- [] Construction_Kart
-- [] Construction Program Management – Decision Making and Optimization Techniques - Ali D. Haidar (auth.)
-- [] Construction industrielle
-- [] Computer Systems_ Digital Design, Fundamentals of Computer Architecture and Assembly Language - Ata Elahi
-- [] Comprehensive Dictionary of Electrical Engineering - Phillip A. Laplante
-- [] Comment plaire en 3 minutes, en tête-à-tête, au travail, en groupe - Patricia Delahaie
-- [] Comment le microbioite gouverne notre cerveau - Structure du livre
-- [] Comment décoder les gestes de vos interlocuteurs et Etre Conscient des Votres - David Cohen
-- [] Sans titre
-- [] PART III WRITING HUMOR FOR SPECIFIC MARKETS
-- [] Coding Projects in Python - DK
-- [] Coding Games in Python - DK
-- [] CODEX - Les biais congitifs
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Brain Training_ Boost Memory, Maximize Mental Agility, & Awaken Your Inner Genius - Tony Buzan
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Content
-- [] Autodesk Robot Structural Analysis Professional 2015 - Essentials - Ken Marsh
-- [] Artificial Intelligence Basics. A Non-Technical Introduction - Tom Taulli
-- [] Art of the Formula 1 Race Car - Peter Windsor
-- [] Arduino Projects To Save The World By Emery Premeaux with Brian Evans
-- [] Apprendre l'électronique en partant de zéro N2
-- [] Apprendre la programmation web avec Python et Django - Hugues Bersini, Pierre Alexis, Gilles Degols - 2e Edition
-- [] Apprentissage artificiel - Concepts et algorithmes - Antoine Cornuéjols, Laurent Miclet, Jean-Paul Haton
-- [] A-Memotech Maintenance - F.Castellazzi, D.Cogniel, Y.Gangloff
-- [] Algorithmes et structures de donnees generiques - Cours et exercices corriges en langage C - Michel Divay
-- [] CHAPITRE 25  •  INTERFACES  GRAPHIQUES
-- [] Advanced mechanics of composite materials and structures - Morozov, Evgeny V. Vasiliev, Valery V.
-- [] Advanced Brain Training - Brain Train Your Way to the Top_ A Teach Yourelf Guide - Simon Wootton & Terry Horne
-- [] Advanced automotive fault diagnosis _ automotive technology_ vehicle maintenance and repair - Tom Denton
-- [] Adopting The Minimalist Mindset_ How To Live With Less, Downsize, And Get More Fulfillment From Life - Brain Night
-- [] Additive Manufacturing Technologies_ 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing ( PDFDrive )
-- [] A19-Micro-et-nano-electronique - Bases, Composants et Circuits - Hervé Fanet
-- [] A Textbook of Automobile Engineering - Sudhir Kumar Saxena
-- [] CLEAN CODE - A Handbook of Agile Software Craftsmanship By Robert C Martin.pdf ( PDFDrive )
-- [] A Geek in Japan - Discovering the Land of Manga, Anime, Zen, and the Tea Ceremony - Hector Garcia
-- [] Content
-- [] Engine Testing Theory and Practice - A.J.Marty - M.A.Plint
-- [] Engine Testing Theory and Practice - A.J.Marty - M.A.Plint
-- [] GUIDE_CONCEPTION_RESEAUX_ELECTRIQUES_INDUS
-- [] MAURIN_FIXATION_Mémotech_fixation
-- [] Guide du dessinateur industriel - Edition 2004 ( PDFDrive )
-- [] 24 Patterns for Clean Code. Techniques for Faster, Safer Code with Minimal Debugging - Robert Beisert
-- [] 16 Jours pour développer la puissance de votre mémoire - Association Pedapole
-- [] 13 Things Mentally Strong People Don't Do_ Take Back Your Power, Embrace Change, Face Your Fears, and Train Your Brain for Happiness and Success ( PDFDrive )
-- [] 12 Rules for Life_ An Antidote to Chaos ( PDFDrive )
-- [] Instant Notes - Plant Biology
-- [] [Siarry,_Patrick]_Automatique_de_base
-- [] ¿Quién aprieta tus botones_. Como manejar la gente dificil en tu vida ( PDFDrive )
-- []
+	- [[Lecture notes -]]
+- [] Think Again - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] Think Straight - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] Thinking, Fast and Slow - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 284_Zero to One  - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 283_You Can Have An Amazing Memory - Dominic O'Brien
+	- [[Lecture notes -]]
+- [] 282_You Are a Badass - Jen Sincero
+	- [[Lecture notes -]]
+- [] 280_Why We Sleep - Matthew Walker
+	- [[Lecture notes -]]
+- [] 279_Viewing the Constellations with Binoculars - Anthony Cooke
+	- [[Lecture notes -]]
+- [] 278_Vehicle Dynamics - Reza N.Jazar
+	- [[Lecture notes -]]
+- [] 277_Understanding Normal and Clinical Nutrition - 8th Edition - Sharon Rady Rolfes
+	- [[Lecture notes -]]
+- [] 276_Trees for Gardens, Orchards, and Permaculture - Martin Crawford
+	- [[Lecture notes -]]
+- [] 275_TP Moteur à combustion interne - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 273_The Stars - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 272_The Self-Taught Programmer - Cory Althoff
+	- [[Lecture notes -]]
+- [] 271_The Secrets of People Who Never Get Sick - Gene Stone
+	- [[Lecture notes -]]
+- [] 270_The Secret Code of Japanese Candlesticks - Felipe Tudela
+	- [[Lecture notes -]]
+- [] 269_The Science of Good Cooking - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 268_The Science of Formula 1 Design - David Tremayne
+	- [[Lecture notes -]]
+- [] 267_The Science of Cooking - Dr. Stuart Farrimond
+	- [[Lecture notes -]]
+- [] 266_The Python Book - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 265_The Power of Visual Storytelling - Dan Roam
+	- [[Lecture notes -]]
+- [] 264_The Power of Self-Esteem - Nathaniel Branden
+	- [[Lecture notes -]]
+- [] 263_The Power of Self-Esteem - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 262_The Power of Positive Thinking - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 261_The Power of Positive Thinking - Dr. Norman Vincent Peale
+	- [[Lecture notes -]]
+- [] 260_The Organized mind - Daniel J.Levitin
+	- [[Lecture notes -]]
+- [] 259_The Miracle Morning - Hal Elrod
+	- [[Lecture notes -]]
+- [] 258_The Lucifer Effect - Philip Zimbardo
+	- [[Lecture notes -]]
+- [] 257_The Japanese Experience - W.G.Beasley
+	- [[Lecture notes -]]
+- [] 256_The Intelligent negotiator - Charles Craver
+	- [[Lecture notes -]]
+- [] 255_The Food Lab - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 254_The Electronics Handbook - Jerry C.Whitaker
+	- [[Lecture notes -]]
+- [] 253_The Dip - Seth Godin
+	- [[Lecture notes -]]
+- [] 252_The Creative Curve - Allen Gannett
+	- [[Lecture notes -]]
+- [] 251_The Brain - David Eagleman
+	- [[Lecture notes -]]
+- [] 250_The Book of Yokai Mysterious Creatures of Japanese Folklore - Michael Dylan Foster
+	- [[Lecture notes -]]
+- [] 249_The Biomedical Engineering Handbook - 3th Edition - Joseph D.Bronzino & Donald R.Peterson
+	- [[Lecture notes -]]
+- [] 248_The Basics of Bitcoins and Blockchains - Anthony Lewis
+	- [[Lecture notes -]]
+- [] 247_The Art of Work - Jeff Goins
+	- [[Lecture notes -]]
+- [] 246_The Art of the Pitch - Peter Coughter
+	- [[Lecture notes -]]
+- [] 245_The Anatomy of Story - John Truby
+	- [[Lecture notes -]]
+- [] 244_The Alter Ego Effect - Todd Herman
+	- [[Lecture notes -]]
+- [] 243_The 8085 Microprocessor Architecture , Programming and Interfacing - K.Udaya Kumar & B.S.Umashankar
+	- [[Lecture notes -]]
+- [] 242_The 33 Strategies of War - Robert Greene
+	- [[Lecture notes -]]
+- [] 241_The $100 Startup - Chris Guillebeau
+	- [[Lecture notes -]]
+- [R] 238_Steal Like an Artist - Austin Kleon
+	- [ ] [[Lecture notes -]]
+- [] 236_Sketch Now - Mike Yoshiaki Daikubara
+	- [[Lecture notes -]]
+- [] 234_Scientific Molding Pocket - Routsis Training
+	- [[Lecture notes -]]
+- [] 233_Sapiens - Yuval Noah Harari
+	- [[Lecture notes -]]
+- [] 232_Rework - Jason Fried et David Heinemeier Hansson
+	- [[Lecture notes -]]
+- [] 229_Python_Programming_for_Arduino - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 228_Python Scripts for ABAQUS - Gautam Puri
+	- [[Lecture notes -]]
+- [] 227_Purple Cow - Seth Godin
+	- [[Lecture notes -]]
+- [] 226_Pulkrabek W.W. - 1997 - Willard W.Pulkrabek
+	- [[Lecture notes -]]
+- [] 221_Project Risk Management - Bissonette, Michael M. Bissonette, Mike
+	- [[Lecture notes -]]
+- [] 220_Project management workbook and PMPCAPM - Kerzner, Harold Saladis, Frank P. Saladis
+	- [[Lecture notes -]]
+- [] 219_Pro HTML5 and CSS3 Design Patterns - Michael Bowers, Dionysios Synodinos & Victor Summer.
+	- [[Lecture notes -]]
+- [] 218_Power system dynamics stability and control by Jan Machowski, Janusz Bialek, Dr Jim Bumby
+	- [[Lecture notes -]]
+- [] 217_Power of Habits - Charles Duhigg
+	- [[Lecture notes -]]
+- [] 216_Power Electronics - PS bimbhra 
+	- [[Lecture notes -]]
+- [] 215_Plasticity for Structural Engineers - Springer Verlag
+	- [[Lecture notes -]]
+- [] 214_Plant Biology and Biotechnology - Volume I - Bir Bahadur.
+	- [[Lecture notes -]]
+- [] 213_Pitch Perfect - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 212_Pharmaceutical Production - An Engineering Guide - Bill Bennett & Graham Cole
+	- [[Lecture notes -]]
+- [] 211_Permaculture Principles and Pathways Beyond Sustainability - David Holmgren
+	- [[Lecture notes -]]
+- [] 210_Permaculture Design - Aranya
+	- [[Lecture notes -]]
+- [] 209_Peak - Anders Ericsson & Robert Pool
+	- [[Lecture notes -]]
+- [] 206_Numerical Simulation of Crash-Test For a formula sae car
+	- [[Lecture notes -]]
+- [] 205_Numerical Modelling and Design of Electrical Machines and Devices - K.Hameyer & R.Belmans
+	- [[Lecture notes -]]
+- [] 204_Notations
+	- [[Lecture notes -]]
+- [] 203_Cal Newport - So good they can't ignore you
+	- [[Lecture notes -]]
+- [] 202_Never Split the Difference - Chris Voss
+	- [[Lecture notes -]]
+- [] 201_Neuroscience - Mark F.Bear & Barry W. Connors & Micheal A.Paradiso
+	- [[Lecture notes -]]
+- [] 200_Natural Language Processing with PyTorch - Delip Rao & Brian McMahan
+	- [[Lecture notes -]]
+- [] 199_Nano-Engineering in Science and Technology - Micheal Rieth
+	- [[Lecture notes -]]
+- [] 198_Nano and Molecular Electronics Handbook - Sergey Edward Lyshevski
+	- [[Lecture notes -]]
+- [] 197_Motor Vehicle Structures (Automotive Engineering) - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 196_Motion Control - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 194_Mold design Using PTC Creo Parametric (Pro Engineer) - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 193_Modern Japan - Christopher Goto-Jones
+	- [[Lecture notes -]]
+- [] 192_Modern Japan - James L.Huffman
+	- [[Lecture notes -]]
+- [] 191_Mnemonics Memory Palace - Sjur Midttun
+	- [[Lecture notes -]]
+- [] 190_Mistakes were made (but not by me) - Carol Tavris & Elliot Aronson
+	- [[Lecture notes -]]
+- [] 189_Mind Hacking - Sir John Hargrave
+	- [[Lecture notes -]]
+- [] 188_Mind Map Mastery - Dominic O'Brien
+	- [[Lecture notes -]]
+- [] 187_Mind Hacks_ Tips & Tools for Using Your Brain - Tom Stafford & Matt Webb
+	- [[Lecture notes -]]
+- [] 186_Mieux vivre avec ses émotions _ au travail ou en privé, comment développer son leadership émotionnel - Sylviane Retuerta
+	- [[Lecture notes -]]
+- [] 185_Microprocessors and Microcontrollers - NPTEL - Krishnakumar
+	- [[Lecture notes -]]
+- [] 184_Microprocessor Architecture, Programming, and Applications with the 8085 - Ramesh S.Gaonkar
+	- [[Lecture notes -]]
+- [] 183_Méthodes Numériques_ Algorithmes, analyse et applications - Alfio Quarteroni & Riccardo Sacco & Fausto Saleri
+	- [[Lecture notes -]]
+- [] 182_Metals and How To Weld Them-The James F. Lincoln Arc Welding Foundation - T.B. Jefferson & Gorham Woods
+	- [[Lecture notes -]]
+- [] 172_Matrix Methods of Structural Analysis - Praveen Nagarajan
+	- [[Lecture notes -]]
+- [] 171_MATLAB Deep Learning_ With Machine Learning, Neural Networks and Artificial Intelligence - Phil Kim
+	- [[Lecture notes -]]
+- [] 170_Math--Soong_Fundamentals_of_probability_and_statistics_for_engineers - T.T. Soong
+	- [[Lecture notes -]]
+- [] 168_Mastery - Robert Greene
+	- [[Lecture notes -]]
+- [] 167_Mastering Machine Learning with Python in Six Steps_ A Practical Implementation Guide to Predictive Data Analytics Using Python - Manohar Swamynathan
+- [] 166_Mark Manson - Everything Is F_cked  A Book About Hope-Harper ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 163_Make Your Bed_ Little Things That Can Change Your Life And Maybe The World - Admiral William H.McRaven
+	- [[Lecture notes -]]
+- [] 162_Make It Stick - Peter C.Brown & Henry L.Roediger & Mark A. McDaniel
+	- [[Lecture notes -]]
+- [] 161_Lonely Planet Japan -
+	- [[Lecture notes -]]
+- [] 152_Learning to Solve Problems_ A Handbook for Designing Problem-Solving Learning Environments - David H.Jonassen
+	- [[Lecture notes -]]
+- [] 151_Learning the Art of Electronics_ A Hands-On Lab Course - Thomas C.Hayes
+	- [[Lecture notes -]]
+- [] 150_Learning Astrology_ An Astrology Book for Beginners - Damian Sharp
+	- [[Lecture notes -]]
+- [] 146_Laugh Tactics_ Master Conversational Humor and Be Funny On Command - Think Quickly on Your Feet - Patrick King
+	- [[Lecture notes -]]
+- [] 138_KUKA-Workbook
+	- [[Lecture notes -]]
+- [] 137_Joseph Katz - Race car aerodynamics (Automotive Books & Manuals) - 1995
+	- [[Lecture notes -]]
+- [] 136_Italian vocabulary for English speakers - 5000 words ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 135_Introduction to Machine Learning with Python - Andreas C.Muller & Sarah Guido
+	- [[Lecture notes -]]
+- [] 134_Introduction to Human Nutrition 2nd Edition - Michael J.Gibney & Susan A.Lanham-New & Aedin Cassidy & Hester H Vorster
+	- [[Lecture notes -]]
+- [] 133_Intelligent Optimization of Mold Design and Process Parameters in Injection Molding - Mehdi Moayyedian
+	- [[Lecture notes -]]
+- [] 130_Indistractable_ How to Control Your Attention and Choose Your Life - Nir Eyal
+	- [[Lecture notes -]]
+- [] 129_Incognito_ The Secret Lives of the Brain - David Eagleman
+	- [[Lecture notes -]]
+- [] 128_Ikigai _ the Japanese secret to a long and happy life - Hector Garcia & Francesc Miralles
+	- [[Lecture notes -]]
+- [] 127_How We Learn_ The Surprising Truth About When, Where, and Why It Happens - Benedict Carey
+	- [[Lecture notes -]]
+- [] 126_How To Win Friends and Influence People - Dale Carnegie
+	- [[Lecture notes -]]
+- [] 125_How to Talk to Anyone - Leil Lowndes
+	- [[Lecture notes -]]
+- [] 124_How To Talk To Absolutely Anyone_ Confident Communication in Every Situation - Mark Rhodes
+	- [[Lecture notes -]]
+- [] 123_How to Make Anyone Like You_ Proven Ways To Become A People Magnet - Leil Lowndes
+	- [[Lecture notes -]]
+- [] 122_How to Instantly Connect with Anyone 96 All-New Little Tricks for Big Success in Relationships - Leil Lowndes
+	- [[Lecture notes -]]
+- [] 121_How to Build a Car_ The Autobiography of the World’s Greatest Formula 1 Designer - Adrian Newey
+	- [[Lecture notes -]]
+- [] 120_Livre - How to Be Invisible, Third Edition_ Protect Your Home, Your Children, Your Assets, and Your Life ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 119_How to Be Invisible, Third Edition_ Protect Your Home, Your Children, Your Assets, and Your Life - J.J.Luna
+	- [[Lecture notes -]]
+- [] 118_How an Economy Grows and Why It Crashes. Peter D.Schiff
+	- [[Lecture notes -]]
+- [] 117_Homo Deus_ A Brief History of Tomorrow - Yuval Noah Harari
+	- [[Lecture notes -]]
+- [] 116_Home Robotics_ Maker-Inspired Projects for Building Your Own Robots - Daniel Knox
+	- [[Lecture notes -]]
+- [] 115_Handbook of Mechanical Design - George F.Nordenholt & Joseph Kerr & John Sasso
+	- [[Lecture notes -]]
+- [] 114_Handbook of Electrical Installation Practice - Goeffrey Stokes
+	- [[Lecture notes -]]
+- [] 113_Hager General Catalogue 1220
+	- [[Lecture notes -]]
+- [] 112_Guide_du_Technicien_en_Electronique - C.Cimelli & R.Bourgeron
+	- [[Lecture notes -]]
+- [] 111_Grit_ The Power of Passion and Perseverance - Angela DuckWorth
+	- [[Lecture notes -]]
+- [] 110_Grit to Great_ How Perseverance, Passion, and Pluck Take You from Ordinary to Extraordinary - Linda Kaplan Thaler & Robin Koval
+	- [[Lecture notes -]]
+- [] 109_Good to Great_ Why Some Companies Make the Leap...And Others Don't - Jim Collins
+	- [[Lecture notes -]]
+- [] 108_Good Strategy_Bad Strategy - Richard Rumelt
+	- [[Lecture notes -]]
+- [] 106_Give and Take_ WHY HELPING OTHERS DRIVES OUR SUCCESS - Adam Grant
+	- [[Lecture notes -]]
+- [] 105_Getting (More of) What You Want_ How the Secrets of Economics and Psychology Can Help You Negotiate Anything, in Business and in Life - Margaret A.Neale and Thomas Z.Lys
+	- [[Lecture notes -]]
+- [] 104_General rules of electrical installation design - Schneider Electric ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 103_Fundamentals of Finite Element Analysis_ Linear Finite Element Analysis - Ioannis  Koutromanos
+	- [[Lecture notes -]]
+- [] 102_Fundamentals of Digital Logic and Microcontrollers-Wiley (2014) - M.Rafiquzzaman
+	- [[Lecture notes -]]
+- [] 101_Freakonomics - A Rogue Economist Explores the Hidden Side of Everything - Steven D.Levitt & Stephan J.Dubner
+	- [[Lecture notes -]]
+- [] 100_formula-ford-report-en
+	- [[Lecture notes -]]
+- [] 99_food-microbiology-3rd-ed
+	- [[Lecture notes -]]
+- [] 98_Flow Simulation 2011 Tutorial ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 97_Fine cooking Italian _ 200 recipes for authentic Italian food ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 96_Fine Cooking Comfort Food  200 Delicious Recipes for Soul-Warming Meals ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 95_Excel-2013-avanc-Guide-de-formation-avec-cas-pratiques
+	- [[Lecture notes -]]
+- [] 94_Everybody Writes_ Your Go-To Guide to Creating Ridiculously Good Content - Ann Handley
+	- [[Lecture notes -]]
+- [] 93_Entraînez votre mémoire - Roland Geisselhart
+	- [[Lecture notes -]]
+- [] 92_Engineering Design Handbook - Automotive Series - The Automotive Assembly_ ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 91_Encyclopedia of World Religions_ Judaism, Christianity, Islam, Buddhism, Zen, Hinduism, Prehistoric, & Primitive Religions ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 90_Encyclopedia of Human Nutrition, Third Edition - Benjamin Caballero & Lindsay Allen & Andrew Prentice
+	- [[Lecture notes -]]
+- [] 89_En Cambio, aprendé a modificara tu cerebro para cambiar tu vida y sentirte mejor ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 88_Employee to Entrepreneur_ How to Earn Your Freedom and Do Work That Matters - Steve Glaveski
+	- [[Lecture notes -]]
+- [] 87_Electronics and Circuit Analysis Using MATLAB - John O. Attia
+	- [[Lecture notes -]]
+- [] 86_Electronic and Electrical Engineering Principles and Practice by Lionel Warnes - Lionel Warnes
+	- [[Lecture notes -]]
+- [] 85_Electrical installation handbook Protection, control and electrical devices - ABB
+	- [[Lecture notes -]]
+- [] 84_Electrical and Electronics Measurements and Instrumentation -
+	- [[Lecture notes -]]
+- [] 83_Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005) - Eldad Eilam
+	- [[Lecture notes -]]
+		- [[Lecture notes -]]
+- [] 81_Ego Trick_ In Search of the Self - Julian Baggini
+	- [[Lecture notes -]]
+- [] 80_Economics in One Lesson_ The Shortest and Surest Way to Understand Basic Economics - Henry Haslitt
+	- [[Lecture notes -]]
+- [] 79_Dynamic_analysis_and_design_of_impact_attenuator_structures_for_a_Formula_Student_prototype_Thesis
+	- [[Lecture notes -]]
+- [] 76_Don't Make Me Think - Steve Krug
+	- [[Lecture notes -]]
+- [] 75_digital-electronics
+	- [[Lecture notes -]]
+- [] 74_Deep Nutrition_ Why Your Genes Need Traditional Food - Catherine Shanahan & Luke Shanahan
+	- [[Lecture notes -]]
+- [] 73_Deep learning_ adaptive computation and machine learning - Ian Goodfellow, Yoshua Bengio
+	- [[Lecture notes -]]
+- [] 72_Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles - Narasimha Karumanchi
+	- [[Lecture notes -]]
+- [] 71_Data Mining Practical Machine Learning Tools and Techniques 2d ed - Ian H. Witten & Eibe Frank
+	- [[Lecture notes -]]
+- [] 70_Data Acquisition in Motorsport_2018_2019_24102018_Exercise
+	- [[Lecture notes -]]
+- [] 69_Customer Centric Selling de John R. Holland & Michael T. Bosworth
+	- [[Lecture notes -]]
+- [] 68_Creative Confidence_ Unleashing the Creative Potential Within Us All - Tom Kelley & David Kelley
+	- [[Lecture notes -]]
+- [] 67_Control Systems Engineering 7th Ed - Norman S.Nise
+	- [[Lecture notes -]]
+- [] 66_Construction_Kart
+	- [[Lecture notes -]]
+- [] 65_Construction Program Management – Decision Making and Optimization Techniques - Ali D. Haidar (auth.)
+	- [[Lecture notes -]]
+- [] 64_Construction industrielle
+	- [[Lecture notes -]]
+- [] 63_Computer Systems_ Digital Design, Fundamentals of Computer Architecture and Assembly Language - Ata Elahi
+	- [[Lecture notes -]]
+- [] 62_Comprehensive Dictionary of Electrical Engineering - Phillip A. Laplante
+	- [[Lecture notes -]]
+- [] 57_Comedy Writing Secrets_ The Best-Selling Book on How to Think Funny, Write Funny, Act Funny, And Get Paid For It,  - Mel Helitzer with Mark Shatz
+	- [[Lecture notes -]]
+- [] 56_Coding Projects in Python - DK
+	- [[Lecture notes -]]
+- [] 55_Coding Games in Python - DK
+	- [[Lecture notes -]]
+- [] 51_Chemical Engineering in the Pharmaceutical Industry_ R&D to Manufacturing - David J. AM ENDE
+	- [[Lecture notes -]]
+- [] 50_Chassis_Composite_Karting
+	- [[Lecture notes -]]
+- [] 48_Calm the F_ck Down_ How to Control What You Can and Accept What You Can’t So You Can Stop Freaking Out and Get On With Your Life  - Sarah Knightf
+	- [[Lecture notes -]]
+- [] 47_Building Your Own Drones_ A Beginners' Guide to Drones - John Baichtal
+	- [[Lecture notes -]]
+- [] 46_Brain Training_ Boost Memory, Maximize Mental Agility, & Awaken Your Inner Genius - Tony Buzan
+	- [[Lecture notes -]]
+- [] 45_Braiding Sweetgrass_ Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants - Robin Wall Kimmerer
+	- [[Lecture notes -]]
+- [] 44_Biomedical Instrumentation and Measurements - Lesile Cromwell & Fred J.Weibell & Erich A.Pfeiffer
+	- [[Lecture notes -]]
+- [] 42_Behave_ The Biology of Humans at Our Best and Worst ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 41_Beginning Data Science in R_ Data Analysis, Visualization, and Modelling for the Data Scientist - Thomas Mailund
+	- [[Lecture notes -]]
+- [] 40_Awakening the Third Eye - Samuel Sagan, M.D
+	- [[Lecture notes -]]
+- [] 39_Automotive Chassis Engineering - David C.Barton, John D.Fieldhouse
+	- [[Lecture notes -]]
+- [] 38_Automobile Mechanical and Electrical Systems_ Automotive Technology_ Vehicle Maintenance and Repair (Vehicle Maintenance & Repr Nv2) - Tom Denton
+	- [[Lecture notes -]]
+- [] 37_Automobile Electrical and Electronic Systems - Tom Denton
+	- [[Lecture notes -]]
+- [] 35_Autodesk Robot Structural Analysis Professional 2015 - Essentials - Ken Marsh
+	- [[Lecture notes -]]
+- [] 34_Artificial Intelligence Basics. A Non-Technical Introduction - Tom Taulli
+	- [[Lecture notes -]]
+- [] 33_Art of the Formula 1 Race Car - Peter Windsor
+	- [[Lecture notes -]]
+- [] 32_Arduino Projects To Save The World By Emery Premeaux with Brian Evans
+	- [[Lecture notes -]]
+- [] 25_Advanced mechanics of composite materials and structures - Morozov, Evgeny V. Vasiliev, Valery V.
+	- [[Lecture notes -]]
+- [] 24_Advanced Brain Training - Brain Train Your Way to the Top_ A Teach Yourelf Guide - Simon Wootton & Terry Horne
+	- [[Lecture notes -]]
+- [] 23_Advanced automotive fault diagnosis _ automotive technology_ vehicle maintenance and repair - Tom Denton
+	- [[Lecture notes -]]
+- [] 22_Adopting The Minimalist Mindset_ How To Live With Less, Downsize, And Get More Fulfillment From Life - Brain Night
+	- [[Lecture notes -]]
+- [] 21_Additive Manufacturing Technologies_ 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 19_A Textbook of Automobile Engineering - Sudhir Kumar Saxena
+	- [[Lecture notes -]]
+- [] 18_CLEAN CODE - A Handbook of Agile Software Craftsmanship By Robert C Martin.pdf ( PDFDrive )
+	- [[Lecture notes -]]
+- [] 17_A Geek in Japan - Discovering the Land of Manga, Anime, Zen, and the Tea Ceremony - Hector Garcia
+	- [[Lecture notes -]]
+- [] 16_1340774899_Cahier-ANR-4-Intelligence-Artificielle
+	- [[Lecture notes -]]
+- [] 15_Engine Testing Theory and Practice - A.J.Marty - M.A.Plint
+	- [[Lecture notes -]]
+- [] 14_Engine Testing Theory and Practice - A.J.Marty - M.A.Plint
+	- [[Lecture notes -]]
+- [] 10_24 Patterns for Clean Code. Techniques for Faster, Safer Code with Minimal Debugging - Robert Beisert
+	- [[Lecture notes -]]
+- [] 09_16 Jours pour développer la puissance de votre mémoire - Association Pedapole
+	- [[Lecture notes -]]
+- [] 08_13 Things Mentally Strong People Don't Do
+	- [[Lecture notes -]]
+- [] 07_12 Rules for Life
+	- [[Lecture notes -]]
+- [] 06_Instant Notes - Plant Biology
+	- [[Lecture notes -]]
+- [] 05_Automatique de base
+	- [[Lecture notes -]]
+- [] 179_Mechanical Engineering Principles, 3rd Edition [2015] - John Bird & Carl Ross
+	- [[Lecture notes -]]
 
+{Livres écrits en français}
+- [] 78_Dunod - Automatique - Systèmes linéaires, non linéaires - 2e édition - Yves Granjon
+	- [[Lecture notes -]]
+- [] 52_Circuits integrés programmables et microprocesseurs - Mr Mazoughou GOEPOGUI
+	- [[Lecture notes -]]
+	- [[Lecture notes -]]
+- [] 77_Dunod - Aide-Mémoire - Mécanique des structures - Résistance des matériaux - Dunod - Arnaud Delaplace & Fabrice Gatuingt & Frédéric Ragueneau
+	- [[Lecture notes -]]
+- [] 61_Comment plaire en 3 minutes, en tête-à-tête, au travail, en groupe - Patricia Delahaie
+	- [[Lecture notes -]]
+- [] 60_Comment le microbioite gouverne notre cerveau - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 59_Comment décoder les gestes de vos interlocuteurs et Etre Conscient des Votres - David Cohen
+	- [[Lecture notes -]]
+- [] 58_Comme un chef - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 54_CODEX - Les biais congitifs - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 53_CODEX - Les biais congitifs - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 36_Automates programmables industriels-Dunod, L’Usine nouvelle - Hervé Soulard
+	- [[Lecture notes -]]
+- [] 43_Big Data - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 49_catalogue_matos_atelier - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 31_Apprendre l'électronique en partant de zéro - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 30_Apprendre la programmation web avec Python et Django - Hugues Bersini, Pierre Alexis, Gilles Degols - 2e Edition
+	- [[Lecture notes -]]
+- [] 29_Apprentissage artificiel - Concepts et algorithmes - Antoine Cornuéjols, Laurent Miclet, Jean-Paul Haton
+	- [[Lecture notes -]]
+- [] 28_A-Memotech Maintenance - F.Castellazzi, D.Cogniel, Y.Gangloff
+	- [[Lecture notes -]]
+- [] 27_Algorithmes et structures de donnees generiques - Langage C - Michel Divay
+	- [[Lecture notes -]]
+- [] 20_A19-Micro-et-nano-electronique - Bases, Composants et Circuits - Hervé Fanet
+	- [[Lecture notes -]]
+- [] 26_Algorithme et programmation en Java - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 12_ Mémotech pour la fixation - Maurin Fixation
+	- [[Lecture notes -]]
+- [] 13_Guide de conception des réseaux électriques industrielles - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 11_Guide du dessinateur industriel - Edition 2004  - {{Nom_auteur}}
+	- [[Lecture notes -]]
 - [] Le pouvoir rhétorique - Clément Viktorovitch
-- [] L'essentiel de l'éloquence
-- [] L'essentiel pour convaincre
+	- [[Lecture notes -]]
+- [] L'essentiel de l'éloquence - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] L'essentiel pour convaincre - {{Nom_auteur}}
+	- [[Lecture notes -]]
 - [] Manuel de génie électrique - Guy Chateigner, Michel Boes, Daniel Bouix, Jacques Vaillant, Daniel Verkindere
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- []
+	- [[Lecture notes -]]
+- [] 239_Strategies de négociation - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] Hypersensible - Elaine N. Aron
+	- [[Lecture notes -]]
+- [R] Influence et Manipulation - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] Intelligence Artificielle - 3e Edition - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] La maîtrise de l'amour - Don Miguel Ruiz, Janet Mills
+	- [[Lecture notes -]]
+- [] La mémoire, entre sciences et sociétés - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] La psychologie de la manipulation - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] La revanche des discrets - Sophia Dembling
+	- [[Lecture notes -]]
+- [R] La voix de la connaissance - Don Miguel Ruiz
+	- [[Lecture notes -]]
+- [R] Le cerveau attentif - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] Le cerveau funambule - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] Le Piège Du Bonheur - Créez La Vie Que Vous Voulez - Russ Harris
+	- [[Lecture notes -]]
+- [R] Le pouvoir de l'instant présent - Eckhart Tolle
+	- [[Lecture notes -]]
+- [R] Le pouvoir des gentils - Les règles d'or de la relation de confiance - Franck Martin
+	- [[Lecture notes -]]
+- [R] Le pouvoir du chowa  - La sagesse japonaise de l'harmonie et de l'équilibre - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] L'Effet Cumulé - Hardy Darren
+	- [[Lecture notes -]]
+- [R] Les 5 blessures qui empêchent d'être soi-même - Lise Bourbeau
+	- [[Lecture notes -]]
+- [] Les 100 schémas du management - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] Les accords toltèques - Don Miguel Ruiz
+	- [[Lecture notes -]]
+- [R] Les clefs de la manipulation - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] L'intelligence du stress - Fradin, Jacques
+	- [[Lecture notes -]]
+- [R] L'intelligence émotionnelle - Daniel Goleman
+	- [[Lecture notes -]]
+- [R] Petit Code de la communication - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] Petit traité de manipulation à l'usage des honnêtes gens - Structure du livre
+	- [[Lecture notes -]]
+- [] Tout est dans la tête - Eric Albert
+	- [[Lecture notes -]]
+- [] Tremblez mais osez - Susan Jeffers
+	- [[Lecture notes -]]
+- [] Une mémoire extraordinaire - Jean-Yves Ponce
+	- [[Lecture notes - Une mémoire extraordinaire - Jean Yves Ponce]]
 
+- [R] 240_Système 1 & Système 2 - Les deux vitesses de la pensée - Daniel Kahneman
+	- [[Lecture notes -]]
+- [] 225_Psychologie de la manipulation et de la soumission - Nicolas Guégen
+	- [[Lecture notes -]]
+- [] 224_Psychologie de la manipulation et de la soumission - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 223_Psychologie de la manipulation et de la soumission - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 222_Projet_Méthode des élements finis - Etude et optimisation d'un chaissis tubulaire - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 145_Livre - L'art de parler - La diction - Emile Sigogne
+	- [[Lecture notes -]]
+- [] 144_L'art de parler - La diction - Emile Sigogne
+	- [[Lecture notes -]]
+- [] 143_L'Art d'avoir toujours raison - Arthur Schopenhauer
+	- [[Lecture notes -]]
+- [] 142_La soudure à l'arc électrique Des principes aux applications-Eyrolles - Jean-Claude Guichard
+	- [[Lecture notes -]]
+- [] 141_La cuisine japonaise - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 140_La conception mécanique - Dunod - Phillippe Boisseau
+	- [[Lecture notes -]]
+- [] 139_La Blockchain pour les Nuls grand format - Tiana Laurence
+	- [[Lecture notes -]]
+- [] 132_Intelligence Artificielle et Systèmes Multi-Agents - Badr Benmammar
+	- [[Lecture notes -]]
+- [] 131_Informatique et sciences du numérique - Spécialité ISN en terminale S, avec des exercices corrigés et des idées de projets - Gilles Dowek
+	- [[Lecture notes -]]
+- [] 160_L'Intelligence Artificielle pour les développeurs - Concepts et implémentations en C# - Virgine Mathivet
+	- [[Lecture notes -]]
+- [] 159_L'essentiel du droit de travail - Dominique GrandGuillot
+	- [[Lecture notes -]]
+- [] 158_L'Esprit et la Machine - Faut-il avoir peur de l'Intelligence Artificielle - Serge Boisse
+	- [[Lecture notes -]]
+- [] 157_Les 12 lois de notre cerveau - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 156_Les composites en aérospatiale - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 155_Les capteurs en instrumentation industrielle - Georges Asch et Coll.
+	- [[Lecture notes -]]
+- [] 154_Les capteurs - 62 exercices et problèmes corrigés-Dunod - Pascal Dassonvalle
+	- [[Lecture notes -]]
+- [] 153_L'Economie pour les nuls - Michel Musolino
+	- [[Lecture notes -]]
+- [] 149_Le Vin Pour les Nuls 6e édition - Ed McCarthy & Mary Ewing & Eric Beaumard
+	- [[Lecture notes -]]
+- [] 148_Le guide du Super recruteur _ 33 fiches outils pour mener ses entretiens de recrutement - Nathalie Olivier & François Samson
+	- [[Lecture notes -]]
+- [] 147_Le Guerre des intelligences - Dr Laurent ALexandre
+	- [[Lecture notes -]]
+- [] 181_Mémorisation facile - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 180_ Mémoire sur le Kendo - Kenichi YOSHIMURA
+	- [[Lecture notes -]]
+- [] 178_Mécatronique - Cours & Exercices - Lionel Birglen
+	- [[Lecture notes -]]
+- [] 177_Mécanique quantique. Tome III _ Fermions, bosons, photons, corrélations et intrication - Claude Cohen-Tannoudji & Bernard Diu & Franck Laloe
+	- [[Lecture notes -]]
+- [] 176_Mécanique quantique - Tome II - Claude Cohen-Tannoudji & Bernard Diu & Franck Laloe
+	- [[Lecture notes -]]
+- [] 175_Mécanique quantique - Tome I - Claude Cohen-Tannoudji & Bernard Diu & Franck Laloe
+	- [[Lecture notes -]]
+- [] 174_Mécanique quantique - Christophe Texier
+	- [[Lecture notes -]]
+- [] 173_Mécanique quantique -  Atomes et noyaux, applications technologiques - Jean Hladik & Michel Chrysos & Pierre-Emmanuel Hladik & Lorenzo Ugo Ancarani
+	- [[Lecture notes -]]
+- [] 169_Mathématiques pour l'ingénieur _ Rappels de cours, Méthodes,  Exercices et problèmes avec corrigés détaillés - Yves Leroyer & Patrice Tesson
+	- [[Lecture notes -]]
+- [] 165_Manuel sur les freins pneumatiques - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 164_Manipuler, pourquoi et comment - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [R] Superintelligence - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 281_www.GrandeBiblio.com-QCM-de-Culture-Generale-Fonction-publique-Grandes-Ecoles
+	- [[Lecture notes -]]
+- [R] 274_Tout le monde n’a pas eu la chance de rater ses études - Olivier Roland
+	- [[Lecture notes -]]
+- [] 237_Soyez plus malin que les cons qui vous pourrissent la vie - A. Mucchielli
+	- [[Lecture notes -]]
+- [] 235_Sécurité informatique - Laurent Bloch & Christophe Wolfhugel
+	- [[Lecture notes -]]
+- [] 231_Réseaux et transmissions - 6e Edition - Stéphane Lohier & Dominique Présent
+	- [[Lecture notes -]]
+- [] 230_Rédaction de courriels efficaces suivi - Nathalène Armand
+	- [[Lecture notes -]]
+- [] 208_Panorama de l'Intelligence Artificielle - Pierre Marquis & Odile Papini & Henri Prade
+	- [[Lecture notes -]]
+- [] 207_Optimisation des structures mécaniques - Dunod - Micheal Bruyneel & Jean-Charles Craveur & Pierre Gourmelen
+	- [[Lecture notes -]]
+- [] 195_Moteurs électriques pour la robotique - Dunod - 2016 - Pierre Mayé
+	- [[Lecture notes -]]
+
+{Livres écrits en espagnol}
+- [] 04_¿Quién aprieta tus botones - {{Nom_auteur}}
+	- [[Lecture notes -]]
+- [] 82_El sutil arte de que te importe un carajo - Mark Manson
+	- [[Lecture notes -]]
 
 List of Hashtags used in the knowledge management map : 
 -------------------------------------------------------
