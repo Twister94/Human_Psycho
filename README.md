@@ -1,6 +1,6 @@
 # Library_Ressources
 
-You will find some notes when I read books (French, English or Spanish)
+You will find some notes when I read books (French, English or Spanish). If you want to help me 
 
 Status : [Read, Summary_Writed, Information_Extracted]
 
