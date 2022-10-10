@@ -22,70 +22,85 @@ Progression :
 - [] Blue Ocean Strategy - W.Chan Kim
 	- [[Lecture notes -]]
 - [] Tuesdays with Morrie
-	- [[Lecture notes -]]
+	- [[Lecture notes - Tuesdays with Morrie]]
 - [] The blueprint
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Blueprint]]
 - [] Master your emotions
-	- [[Lecture notes -]]
+	- [[Lecture notes - Master your emotions]]
 - [] The Alchemist
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Alchemist]]
 - [] The Moral compass
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Moral Compass]]
 - [] Mentor Morphosis - Akash Khurana 
 	- [[Lecture notes -]]
 - [] Emotional Intelligence - Daniel Goleman
-	- [[Lecture notes -]]
+	- [[Lecture notes - Emotional Intelligence]]
 - [] Small is Big - Amit Acarwal 
-	- [[Lecture notes -]]
+	- [[Lecture notes - Small is Big]]
 - [] Full circle marketing - Wayne Mullins
-	- [[Lecture notes -]]
+	- [[Lecture notes - Full circle Marketing]]
 - [] Power of ignored skills - Manoj Tripathi
-	- [[Lecture notes -]]
+	- [[Lecture notes - Power of ignored skills]]
 - [] Courage is calling - Ryan Holiday
-	- [[Lecture notes -]]
+	- [[Lecture notes - Courage is calling]]
 - [] Stolen Focus - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Stolen Focus]]
 - [] Hyperfocus - Chris Balley
-	- [[Lecture notes -]]
+	- [[Lecture notes - Hyperfocus]]
 - [] Mindreader - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mindreader]]
 - [R] Eat that Frog - Brian Tracy
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Eat that frog]]
 - [] The 10x Rule - Grant Cardone
-	- [[Lecture notes -]]
+	- [[Lecture notes - The 10x Rule]]
 - [] Build a second brain - Tiago Forte
-	- [[Lecture notes -]]
+	- [[Lecture notes - Build a second brain]]
 - [] Unlock the power of you - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Unlock the power of you]]
 - [] The Art of Dealing with People - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Art of Dealing with People]]
 - [] Mini philosophy - A small Book of big ideas - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mind philosophy - A small book of big ideas]]
 - [R] The War of Art - Steven Pressfield
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - The War of Art]]
 - [R] Turning Pro - Steven Pressfield
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Turning Pro]]
 - [] Dopamine Detox - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Dopamine Detox]]
 - [R] 21 Lessons for the 21st Century - Yuval Noah Harari
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - 21 Lessons for the 21st Century]]
 - [R] Atomic Habits - James Clear
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Atomic Habits ]]
 - [x] Boundaries - Henry Cloud
+	- [ ] [[Lecture notes -]]
 - [R] Bullshit Jobs - David Graeber
+	- [ ] [[Lecture notes -]]
 - [] Daily Self-Discipline - {{Nom_auteur}}
+	- [ ] [[Lecture notes -]]
 - [R] Daring Greatly - Brené Brown
+	- [ ] [[Lecture notes -]]
 - [R] Deep Work - Cal Newport
+	- [ ] [[Lecture notes -]]
 - [R] Ego is the Enemy - Ryan Holiday
+	- [ ] [[Lecture notes -]]
 - [R] Essentialism - Greg McKeown
+	- [ ] [[Lecture notes -]]
 - [R] Find Your Why - Simon Sinek
+	- [ ] [[Lecture notes -]]
 - [R] Getting Things Done - David Allen
+	- [ ] [[Lecture notes -]]
 - [R] How to take smart notes - Sonke Ahrens
+	- [ ] [[Lecture notes -]]
 - [] Keep Going - Austin Kleon
+	- [ ] [[Lecture notes -]]
 - [] Show Your Work ! - {{Nom_auteur}}
+	- [ ] [[Lecture notes -]]
 - [R] Start with why - Simon Sinek
+	- [ ] [[Lecture notes -]]
 - [R] Stillness is the Key - Ryan Holiday
+	- [ ] [[Lecture notes -]]
 - [R] The Daily Stoic - Ryan Holiday
+	- [ ] [[Lecture notes -]]
 - [R] The First 20 Hours - Josh Kaufman
 - [] The Japanese mind - Roger J.Davies, Osamu Ikeno
 	- [[Lecture notes -]]
