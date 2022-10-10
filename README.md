@@ -5,19 +5,90 @@ You will find some notes when I read books (French, English or Spanish)
 Status : [Read, Summary_Writed, Information_Extracted]
 
 Progression : 
+
+The Second Mountain - David Brooks
+[[Lecture notes - ]]
+100 Days to Brave - Annie F. Downs 
+[[Lecture notes - ]]
+Best Self
+[[Lecture notes - ]]
+The Willpower Instinct
+[[Lecture notes - ]]
+The Antidote - Oliver Burkeman
+[[Lecture notes - ]]
+The Happiness Advantage
+[[Lecture notes - ]]
+The Compound Effect
+[[Lecture notes - ]]
+Everything Is Figureoutable
+[[Lecture notes - ]]
+Rich Dad Poor Dad by Robert Kiyosaki
+[[Lecture notes - ]]
+Tiny Beautiful Things
+[[Lecture notes - ]]
+Declutter Your Mind
+[[Lecture notes - ]]
+
 The Mastery Manual - Robin Sharma
+[[Lecture notes - ]]
 The Richest Man in Babylon - George S. Clason
+[[Lecture notes - ]]
 101 simple truths for a better life -
+[[Lecture notes - ]]
 The Almanack of Naval Ravikant
+[[Lecture notes - ]]
 Design for how people think - Using Brain Science to build better Products
+[[Lecture notes - ]]
 Electric Circuits - 11th Edition - James W.Nilsso
+[[Lecture notes - ]]
 Numerical methods for solving partial differential equations - George F.Pinder
+[[Lecture notes - ]]
+1+1=3 Calm the chaotic mind - Kunal Dudeja
+[[Lecture notes - ]]
+Taking care of you - Mary
+[[Lecture notes - ]]
+Who moved my cheese ?
+[[Lecture notes - ]]
+Whatcha gonna do with that duck ? - Seth Godin
+[[Lecture notes - ]]
+Fooled by Randomness - Nassim Nicholas Taleb
+[[Lecture notes - ]]
+The Attention revolution - Unlocking the power of the focused mind - Alan Wallace PH.D
+[[Lecture notes - ]]
+The Paleo Minfesto - Ancient wisdom for lifelong health - John Durant
+[[Lecture notes - ]]
+Mindsight - The New Science of personal transformation
+[[Lecture notes - ]]
+An Astronaut’s Guide to Life on Earth - Chris Hadfield
+[[Lecture notes - ]]
+Perfect Health Diet by Paul Jaminet & Shou-Ching Jaminet
+[[Lecture notes - ]]
+Failing Forward by John C. Maxwell
+[[Lecture notes - ]]
+The Last Lecture by Randy Pausch
+[[Lecture notes - ]]
+The Demon-Haunted World by Carl Sagan
+[[Lecture notes - ]]
+Philosophy for Life by Jules Evans
+[[Lecture notes - ]]
+Man’s Search For Meaning by Victor. E. Frankl
+[[Lecture notes - ]]
+Simplify by Joshua Becker
+[[Lecture notes - ]]
+Smarter, Faster, Better by Charles Duhigg
+[[Lecture notes - ]]
 
 
 Cessez d'être gentil, soyez vrais - Thomas d'ansembourg
+[[Lecture notes - ]]
 Le Personal MBA
+[[Lecture notes - ]]
 Les 3 sagesses chinoises
+[[Lecture notes - ]]
 Les 7 profils d'apprentissage - JF Michel
+[[Lecture notes - ]]
+
+
 
 - [] Meditatons - Marcus Aurelius
 	- [[Lecture notes - Meditations]] 
