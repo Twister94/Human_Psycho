@@ -9,6 +9,15 @@ The Mastery Manual - Robin Sharma
 The Richest Man in Babylon - George S. Clason
 101 simple truths for a better life -
 The Almanack of Naval Ravikant
+Design for how people think - Using Brain Science to build better Products
+Electric Circuits - 11th Edition - James W.Nilsso
+Numerical methods for solving partial differential equations - George F.Pinder
+
+
+Cessez d'être gentil, soyez vrais - Thomas d'ansembourg
+Le Personal MBA
+Les 3 sagesses chinoises
+Les 7 profils d'apprentissage - JF Michel
 
 - [] Meditatons - Marcus Aurelius
 	- [[Lecture notes - Meditations]] 
