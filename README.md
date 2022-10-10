@@ -5,6 +5,13 @@ You will find some notes when I read books (French, English or Spanish)
 Status : [Read, Summary_Writed, Information_Extracted]
 
 Progression : 
+The Mastery Manual - Robin Sharma
+The Richest Man in Babylon - George S. Clason
+101 simple truths for a better life -
+The Almanack of Naval Ravikant
+
+- [] Meditatons - Marcus Aurelius
+	- [[Lecture notes - Meditations]] 
 - [] The Book of Moods - Lauren Martin
 	- [[Lecture notes - The Book of Moods - Lauren Martin]]
 - [] I can change the I and everyone is I - Tangal
