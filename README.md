@@ -566,184 +566,184 @@ Progression :
 - [] 31_Apprendre l'électronique en partant de zéro - {{Nom_auteur}}
 	- [[Lecture notes - Apprendre l'électronique en partant de zéro]]
 - [] 30_Apprendre la programmation web avec Python et Django - Hugues Bersini, Pierre Alexis, Gilles Degols - 2e Edition
-	- [[Lecture notes -]]
+	- [[Lecture notes - Apprendre la programmation web avec Python et Django]]
 - [] 29_Apprentissage artificiel - Concepts et algorithmes - Antoine Cornuéjols, Laurent Miclet, Jean-Paul Haton
-	- [[Lecture notes -]]
+	- [[Lecture notes - Apprentissage artificiel]]
 - [] 28_A-Memotech Maintenance - F.Castellazzi, D.Cogniel, Y.Gangloff
 	- [[Lecture notes -]]
 - [] 27_Algorithmes et structures de donnees generiques - Langage C - Michel Divay
-	- [[Lecture notes -]]
+	- [[Lecture notes - Algorithmes et structures de donnees generiques]]
 - [] 20_A19-Micro-et-nano-electronique - Bases, Composants et Circuits - Hervé Fanet
-	- [[Lecture notes -]]
+	- [[Lecture notes - A19-Micro-et-nano-electroniqu]]
 - [] 26_Algorithme et programmation en Java - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Algorithme et programmation en Java]]
 - [] 12_ Mémotech pour la fixation - Maurin Fixation
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mémotech pour la fixation]]
 - [] 13_Guide de conception des réseaux électriques industrielles - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Guide de conception des réseaux électriques industrielles]]
 - [] 11_Guide du dessinateur industriel - Edition 2004  - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Guide du dessinateur industriel]]
 - [] Le pouvoir rhétorique - Clément Viktorovitch
-	- [[Lecture notes -]]
+	- [[Lecture notes - Le pouvoir rhétorique]]
 - [] L'essentiel de l'éloquence - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'essentiel de l'éloquence]]
 - [] L'essentiel pour convaincre - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'essentiel pour convaincre]]
 - [] Manuel de génie électrique - Guy Chateigner, Michel Boes, Daniel Bouix, Jacques Vaillant, Daniel Verkindere
-	- [[Lecture notes -]]
+	- [[Lecture notes - Manuel de génie électrique]]
 - [] 239_Strategies de négociation - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Strategies de négociation]]
 - [R] Hypersensible - Elaine N. Aron
-	- [[Lecture notes -]]
+	- [[Lecture notes - Hypersensible]]
 - [R] Influence et Manipulation - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Influence et Manipulation]]
 - [R] Intelligence Artificielle - 3e Edition - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Intelligence Artificielle]]
 - [R] La maîtrise de l'amour - Don Miguel Ruiz, Janet Mills
-	- [[Lecture notes -]]
+	- [[Lecture notes - La maîtrise de l'amour]]
 - [] La mémoire, entre sciences et sociétés - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - La mémoire, entre sciences et sociétés]]
 - [R] La psychologie de la manipulation - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - La psychologie de la manipulation]]
 - [R] La revanche des discrets - Sophia Dembling
-	- [[Lecture notes -]]
+	- [[Lecture notes -  La revanche des discrets]]
 - [R] La voix de la connaissance - Don Miguel Ruiz
-	- [[Lecture notes -]]
+	- [[Lecture notes - La voix de la connaissance]]
 - [R] Le cerveau attentif - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Le cerveau attentif]]
 - [R] Le cerveau funambule - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Le cerveau funambule ]]
 - [R] Le Piège Du Bonheur - Créez La Vie Que Vous Voulez - Russ Harris
-	- [[Lecture notes -]]
+	- [[Lecture notes - Le Piège Du Bonheur]]
 - [R] Le pouvoir de l'instant présent - Eckhart Tolle
-	- [[Lecture notes -]]
+	- [[Lecture notes - Le pouvoir de l'instant présent]]
 - [R] Le pouvoir des gentils - Les règles d'or de la relation de confiance - Franck Martin
-	- [[Lecture notes -]]
+	- [[Lecture notes - Le pouvoir des gentils ]]
 - [R] Le pouvoir du chowa  - La sagesse japonaise de l'harmonie et de l'équilibre - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Le pouvoir du chowa]]
 - [R] L'Effet Cumulé - Hardy Darren
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'Effet Cumulé ]]
 - [R] Les 5 blessures qui empêchent d'être soi-même - Lise Bourbeau
-	- [[Lecture notes -]]
+	- [[Lecture notes - Les 5 blessures qui empêchent d'être soi-même]]
 - [] Les 100 schémas du management - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Les 100 schémas du management]]
 - [R] Les accords toltèques - Don Miguel Ruiz
-	- [[Lecture notes -]]
+	- [[Lecture notes - Les accords toltèques ]]
 - [R] Les clefs de la manipulation - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Les clefs de la manipulation]]
 - [R] L'intelligence du stress - Fradin, Jacques
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'intelligence du stress]]
 - [R] L'intelligence émotionnelle - Daniel Goleman
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'intelligence émotionnelle]]
 - [R] Petit Code de la communication - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Petit Code de la communication]]
 - [R] Petit traité de manipulation à l'usage des honnêtes gens - Structure du livre
-	- [[Lecture notes -]]
+	- [[Lecture notes - Petit traité de manipulation à l'usage des honnêtes gens]]
 - [] Tout est dans la tête - Eric Albert
-	- [[Lecture notes -]]
+	- [[Lecture notes - Tout est dans la tête]]
 - [] Tremblez mais osez - Susan Jeffers
-	- [[Lecture notes -]]
+	- [[Lecture notes - Tremblez mais osez]]
 - [] Une mémoire extraordinaire - Jean-Yves Ponce
 	- [[Lecture notes - Une mémoire extraordinaire - Jean Yves Ponce]]
 
 - [R] 240_Système 1 & Système 2 - Les deux vitesses de la pensée - Daniel Kahneman
-	- [[Lecture notes -]]
+	- [[Lecture notes - Système 1 & Système 2 - Les deux vitesses de la pensée]]
 - [] 225_Psychologie de la manipulation et de la soumission - Nicolas Guégen
-	- [[Lecture notes -]]
+	- [[Lecture notes - Psychologie de la manipulation et de la soumission]]
 - [] 224_Psychologie de la manipulation et de la soumission - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes -Psychologie de la manipulation et de la soumission]]
 - [] 223_Psychologie de la manipulation et de la soumission - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Psychologie de la manipulation et de la soumission]]
 - [] 222_Projet_Méthode des élements finis - Etude et optimisation d'un chaissis tubulaire - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Projet_Méthode des élements finis]]
 - [] 145_Livre - L'art de parler - La diction - Emile Sigogne
 	- [[Lecture notes -]]
 - [] 144_L'art de parler - La diction - Emile Sigogne
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'art de parler]]
 - [] 143_L'Art d'avoir toujours raison - Arthur Schopenhauer
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'Art d'avoir toujours raison]]
 - [] 142_La soudure à l'arc électrique Des principes aux applications-Eyrolles - Jean-Claude Guichard
-	- [[Lecture notes -]]
+	- [[Lecture notes - La soudure à l'arc électrique Des principes aux applications]]
 - [] 141_La cuisine japonaise - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - La cuisine japonaise]]
 - [] 140_La conception mécanique - Dunod - Phillippe Boisseau
-	- [[Lecture notes -]]
+	- [[Lecture notes - La conception mécanique - Dunod]]
 - [] 139_La Blockchain pour les Nuls grand format - Tiana Laurence
-	- [[Lecture notes -]]
+	- [[Lecture notes - La Blockchain pour les Nuls grand format]]
 - [] 132_Intelligence Artificielle et Systèmes Multi-Agents - Badr Benmammar
-	- [[Lecture notes -]]
+	- [[Lecture notes - Intelligence Artificielle et Systèmes Multi-Agents]]
 - [] 131_Informatique et sciences du numérique - Spécialité ISN en terminale S, avec des exercices corrigés et des idées de projets - Gilles Dowek
-	- [[Lecture notes -]]
+	- [[Lecture notes - Informatique et sciences du numérique]]
 - [] 160_L'Intelligence Artificielle pour les développeurs - Concepts et implémentations en C# - Virgine Mathivet
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'Intelligence Artificielle pour les développeurs]]
 - [] 159_L'essentiel du droit de travail - Dominique GrandGuillot
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'essentiel du droit de travail]]
 - [] 158_L'Esprit et la Machine - Faut-il avoir peur de l'Intelligence Artificielle - Serge Boisse
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'Esprit et la Machine]]
 - [] 157_Les 12 lois de notre cerveau - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Les 12 lois de notre cerveau]]
 - [] 156_Les composites en aérospatiale - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Les composites en aérospatiale]]
 - [] 155_Les capteurs en instrumentation industrielle - Georges Asch et Coll.
-	- [[Lecture notes -]]
+	- [[Lecture notes - Les capteurs en instrumentation industrielle]]
 - [] 154_Les capteurs - 62 exercices et problèmes corrigés-Dunod - Pascal Dassonvalle
-	- [[Lecture notes -]]
+	- [[Lecture notes - Les capteurs]]
 - [] 153_L'Economie pour les nuls - Michel Musolino
-	- [[Lecture notes -]]
+	- [[Lecture notes - L'Economie pour les nuls]]
 - [] 149_Le Vin Pour les Nuls 6e édition - Ed McCarthy & Mary Ewing & Eric Beaumard
-	- [[Lecture notes -]]
+	- [[Lecture notes - Le Vin Pour les Nuls 6e édition]]
 - [] 148_Le guide du Super recruteur _ 33 fiches outils pour mener ses entretiens de recrutement - Nathalie Olivier & François Samson
-	- [[Lecture notes -]]
-- [] 147_Le Guerre des intelligences - Dr Laurent ALexandre
-	- [[Lecture notes -]]
+	- [[Lecture notes - Le guide du Super recruteur]]
+- [] 147_La Guerre des intelligences - Dr Laurent ALexandre
+	- [[Lecture notes - La Guerre des intelligences]]
 - [] 181_Mémorisation facile - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mémorisation facile]]
 - [] 180_ Mémoire sur le Kendo - Kenichi YOSHIMURA
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mémoire sur le Kendo]]
 - [] 178_Mécatronique - Cours & Exercices - Lionel Birglen
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mécatronique]]
 - [] 177_Mécanique quantique. Tome III _ Fermions, bosons, photons, corrélations et intrication - Claude Cohen-Tannoudji & Bernard Diu & Franck Laloe
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mécanique quantique. Tome III ]]
 - [] 176_Mécanique quantique - Tome II - Claude Cohen-Tannoudji & Bernard Diu & Franck Laloe
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mécanique quantique - Tome II]]
 - [] 175_Mécanique quantique - Tome I - Claude Cohen-Tannoudji & Bernard Diu & Franck Laloe
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mécanique quantique - Tome I]]
 - [] 174_Mécanique quantique - Christophe Texier
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mécanique quantique]]
 - [] 173_Mécanique quantique -  Atomes et noyaux, applications technologiques - Jean Hladik & Michel Chrysos & Pierre-Emmanuel Hladik & Lorenzo Ugo Ancarani
 	- [[Lecture notes -]]
 - [] 169_Mathématiques pour l'ingénieur _ Rappels de cours, Méthodes,  Exercices et problèmes avec corrigés détaillés - Yves Leroyer & Patrice Tesson
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mathématiques pour l'ingénieur]]
 - [] 165_Manuel sur les freins pneumatiques - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Manuel sur les freins pneumatiques]]
 - [] 164_Manipuler, pourquoi et comment - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Manipuler, pourquoi et comment]]
 - [R] Superintelligence - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Superintelligence]]
 - [] 281_www.GrandeBiblio.com-QCM-de-Culture-Generale-Fonction-publique-Grandes-Ecoles
 	- [[Lecture notes -]]
 - [R] 274_Tout le monde n’a pas eu la chance de rater ses études - Olivier Roland
-	- [[Lecture notes -]]
+	- [[Lecture notes - Tout le monde n’a pas eu la chance de rater ses études]]
 - [] 237_Soyez plus malin que les cons qui vous pourrissent la vie - A. Mucchielli
-	- [[Lecture notes -]]
+	- [[Lecture notes - Soyez plus malin que les cons qui vous pourrissent la vie]]
 - [] 235_Sécurité informatique - Laurent Bloch & Christophe Wolfhugel
-	- [[Lecture notes -]]
+	- [[Lecture notes - Sécurité informatique]]
 - [] 231_Réseaux et transmissions - 6e Edition - Stéphane Lohier & Dominique Présent
-	- [[Lecture notes -]]
+	- [[Lecture notes - Réseaux et transmissions]]
 - [] 230_Rédaction de courriels efficaces suivi - Nathalène Armand
-	- [[Lecture notes -]]
+	- [[Lecture notes - Rédaction de courriels efficaces suivi]]
 - [] 208_Panorama de l'Intelligence Artificielle - Pierre Marquis & Odile Papini & Henri Prade
-	- [[Lecture notes -]]
+	- [[Lecture notes - Panorama de l'Intelligence Artificielle]]
 - [] 207_Optimisation des structures mécaniques - Dunod - Micheal Bruyneel & Jean-Charles Craveur & Pierre Gourmelen
-	- [[Lecture notes -]]
+	- [[Lecture notes - Optimisation des structures mécaniques - Dunod]]
 - [] 195_Moteurs électriques pour la robotique - Dunod - 2016 - Pierre Mayé
-	- [[Lecture notes -]]
+	- [[Lecture notes - Moteurs électriques pour la robotique]]
 
 {Livres écrits en espagnol}
 - [] 04_¿Quién aprieta tus botones - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - ¿Quién aprieta tus botones?]]
 - [] 82_El sutil arte de que te importe un carajo - Mark Manson
-	- [[Lecture notes -]]
+	- [[Lecture notes - El sutil arte de que te importe un carajo]]
 
 List of Hashtags used in the knowledge management map : 
 -------------------------------------------------------
