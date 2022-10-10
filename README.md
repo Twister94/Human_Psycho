@@ -29,7 +29,6 @@ Tiny Beautiful Things
 [[Lecture notes - ]]
 Declutter Your Mind
 [[Lecture notes - ]]
-
 The Mastery Manual - Robin Sharma
 [[Lecture notes - ]]
 The Richest Man in Babylon - George S. Clason
@@ -80,6 +79,12 @@ Smarter, Faster, Better by Charles Duhigg
 [[Lecture notes - ]]
 
 
+Construire et défendre son budget - Outils, méthodes et comportements - Caroline SELMER
+[[Lecture notes - ]]
+Gestion financière de l'entreprise et développement financier - E. Cohen
+[[Lecture notes - ]]
+Trésorerie d'entreprise - Gestion des liquidités - Hubert de la Bruslerie
+[[Lecture notes - ]]
 Cessez d'être gentil, soyez vrais - Thomas d'ansembourg
 [[Lecture notes - ]]
 Le Personal MBA
