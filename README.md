@@ -394,179 +394,177 @@ Progression :
 - [] 99_food-microbiology-3rd-ed
 	- [[Lecture notes -]]
 - [] 98_Flow Simulation 2011 Tutorial ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - Flow Simulation 2011 Tutorial]]
 - [] 97_Fine cooking Italian _ 200 recipes for authentic Italian food ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - Fine cooking Italian]]
 - [] 96_Fine Cooking Comfort Food  200 Delicious Recipes for Soul-Warming Meals ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - Fine Cooking Comfort Food]]
 - [] 95_Excel-2013-avanc-Guide-de-formation-avec-cas-pratiques
-	- [[Lecture notes -]]
+	- [[Lecture notes - Excel 2013]]
 - [] 94_Everybody Writes_ Your Go-To Guide to Creating Ridiculously Good Content - Ann Handley
-	- [[Lecture notes -]]
+	- [[Lecture notes - Everybody Writes]]
 - [] 93_Entraînez votre mémoire - Roland Geisselhart
-	- [[Lecture notes -]]
+	- [[Lecture notes - Entraînez votre mémoire]]
 - [] 92_Engineering Design Handbook - Automotive Series - The Automotive Assembly_ ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - Engineering Design Handbook]]
 - [] 91_Encyclopedia of World Religions_ Judaism, Christianity, Islam, Buddhism, Zen, Hinduism, Prehistoric, & Primitive Religions ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - Encyclopedia of World Religions]]
 - [] 90_Encyclopedia of Human Nutrition, Third Edition - Benjamin Caballero & Lindsay Allen & Andrew Prentice
-	- [[Lecture notes -]]
+	- [[Lecture notes - Encyclopedia of Human Nutrition]]
 - [] 89_En Cambio, aprendé a modificara tu cerebro para cambiar tu vida y sentirte mejor ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - En Cambio]]
 - [] 88_Employee to Entrepreneur_ How to Earn Your Freedom and Do Work That Matters - Steve Glaveski
-	- [[Lecture notes -]]
+	- [[Lecture notes - Employee to Entrepreneur]]
 - [] 87_Electronics and Circuit Analysis Using MATLAB - John O. Attia
-	- [[Lecture notes -]]
+	- [[Lecture notes - Electronics and Circuit Analysis Using MATLAB]]
 - [] 86_Electronic and Electrical Engineering Principles and Practice by Lionel Warnes - Lionel Warnes
-	- [[Lecture notes -]]
+	- [[Lecture notes - Electronic and Electrical Engineering Principles and Practice]]
 - [] 85_Electrical installation handbook Protection, control and electrical devices - ABB
-	- [[Lecture notes -]]
+	- [[Lecture notes - Electrical installation handbook Protection]]
 - [] 84_Electrical and Electronics Measurements and Instrumentation -
-	- [[Lecture notes -]]
+	- [[Lecture notes - Electrical and Electronics Measurements and Instrumentation]]
 - [] 83_Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005) - Eldad Eilam
-	- [[Lecture notes -]]
-		- [[Lecture notes -]]
+	- [[Lecture notes - Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley]]
 - [] 81_Ego Trick_ In Search of the Self - Julian Baggini
-	- [[Lecture notes -]]
+	- [[Lecture notes - Ego Trick]]
 - [] 80_Economics in One Lesson_ The Shortest and Surest Way to Understand Basic Economics - Henry Haslitt
-	- [[Lecture notes -]]
+	- [[Lecture notes - Economics in One Lesson]]
 - [] 79_Dynamic_analysis_and_design_of_impact_attenuator_structures_for_a_Formula_Student_prototype_Thesis
-	- [[Lecture notes -]]
+	- [[Lecture notes - Dynamic_analysis_and_design_of_impact_attenuator_structures]]
 - [] 76_Don't Make Me Think - Steve Krug
-	- [[Lecture notes -]]
+	- [[Lecture notes - Don't Make Me Think]]
 - [] 75_digital-electronics
 	- [[Lecture notes -]]
 - [] 74_Deep Nutrition_ Why Your Genes Need Traditional Food - Catherine Shanahan & Luke Shanahan
-	- [[Lecture notes -]]
+	- [[Lecture notes - Deep Nutrition]]
 - [] 73_Deep learning_ adaptive computation and machine learning - Ian Goodfellow, Yoshua Bengio
-	- [[Lecture notes -]]
+	- [[Lecture notes - Deep learning]]
 - [] 72_Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles - Narasimha Karumanchi
-	- [[Lecture notes -]]
+	- [[Lecture notes - Data Structures and Algorithms Made Easy]]
 - [] 71_Data Mining Practical Machine Learning Tools and Techniques 2d ed - Ian H. Witten & Eibe Frank
-	- [[Lecture notes -]]
+	- [[Lecture notes - Data Mining Practical Machine Learning Tools and Techniques]]
 - [] 70_Data Acquisition in Motorsport_2018_2019_24102018_Exercise
-	- [[Lecture notes -]]
+	- [[Lecture notes - Data Acquisition in Motorsport]]
 - [] 69_Customer Centric Selling de John R. Holland & Michael T. Bosworth
-	- [[Lecture notes -]]
+	- [[Lecture notes - Customer Centric Selling]]
 - [] 68_Creative Confidence_ Unleashing the Creative Potential Within Us All - Tom Kelley & David Kelley
-	- [[Lecture notes -]]
+	- [[Lecture notes - Creative Confidence]]
 - [] 67_Control Systems Engineering 7th Ed - Norman S.Nise
-	- [[Lecture notes -]]
+	- [[Lecture notes - Control Systems Engineering]]
 - [] 66_Construction_Kart
 	- [[Lecture notes -]]
 - [] 65_Construction Program Management – Decision Making and Optimization Techniques - Ali D. Haidar (auth.)
 	- [[Lecture notes -]]
 - [] 64_Construction industrielle
-	- [[Lecture notes -]]
+	- [[Lecture notes - Construction industrielle]]
 - [] 63_Computer Systems_ Digital Design, Fundamentals of Computer Architecture and Assembly Language - Ata Elahi
-	- [[Lecture notes -]]
+	- [[Lecture notes - Computer Systems]]
 - [] 62_Comprehensive Dictionary of Electrical Engineering - Phillip A. Laplante
-	- [[Lecture notes -]]
+	- [[Lecture notes - Comprehensive Dictionary of Electrical Engineering]]
 - [] 57_Comedy Writing Secrets_ The Best-Selling Book on How to Think Funny, Write Funny, Act Funny, And Get Paid For It,  - Mel Helitzer with Mark Shatz
-	- [[Lecture notes -]]
+	- [[Lecture notes - Comedy Writing Secrets]]
 - [] 56_Coding Projects in Python - DK
-	- [[Lecture notes -]]
+	- [[Lecture notes - Coding Projects in Python]]
 - [] 55_Coding Games in Python - DK
-	- [[Lecture notes -]]
+	- [[Lecture notes - Coding Games in Python]]
 - [] 51_Chemical Engineering in the Pharmaceutical Industry_ R&D to Manufacturing - David J. AM ENDE
-	- [[Lecture notes -]]
+	- [[Lecture notes - Chemical Engineering in the Pharmaceutical Industry]]
 - [] 50_Chassis_Composite_Karting
-	- [[Lecture notes -]]
+	- [[Lecture notes - Chassis_Composite_Karting]]
 - [] 48_Calm the F_ck Down_ How to Control What You Can and Accept What You Can’t So You Can Stop Freaking Out and Get On With Your Life  - Sarah Knightf
-	- [[Lecture notes -]]
+	- [[Lecture notes - Calm the F_ck Down]]
 - [] 47_Building Your Own Drones_ A Beginners' Guide to Drones - John Baichtal
-	- [[Lecture notes -]]
+	- [[Lecture notes - Building Your Own Drones]]
 - [] 46_Brain Training_ Boost Memory, Maximize Mental Agility, & Awaken Your Inner Genius - Tony Buzan
-	- [[Lecture notes -]]
+	- [[Lecture notes - Brain Training_ Boost Memory, Maximize Mental Agility, & Awaken Your Inner Genius]]
 - [] 45_Braiding Sweetgrass_ Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants - Robin Wall Kimmerer
-	- [[Lecture notes -]]
+	- [[Lecture notes - Braiding Sweetgrass]]
 - [] 44_Biomedical Instrumentation and Measurements - Lesile Cromwell & Fred J.Weibell & Erich A.Pfeiffer
-	- [[Lecture notes -]]
+	- [[Lecture notes - Biomedical Instrumentation and Measurements]]
 - [] 42_Behave_ The Biology of Humans at Our Best and Worst ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - Behave]]
 - [] 41_Beginning Data Science in R_ Data Analysis, Visualization, and Modelling for the Data Scientist - Thomas Mailund
-	- [[Lecture notes -]]
+	- [[Lecture notes - Beginning Data Science in R]]
 - [] 40_Awakening the Third Eye - Samuel Sagan, M.D
-	- [[Lecture notes -]]
+	- [[Lecture notes - Awakening the Third Eye]]
 - [] 39_Automotive Chassis Engineering - David C.Barton, John D.Fieldhouse
-	- [[Lecture notes -]]
+	- [[Lecture notes - Automotive Chassis Engineering]]
 - [] 38_Automobile Mechanical and Electrical Systems_ Automotive Technology_ Vehicle Maintenance and Repair (Vehicle Maintenance & Repr Nv2) - Tom Denton
-	- [[Lecture notes -]]
+	- [[Lecture notes - Automobile Mechanical and Electrical Systems]]
 - [] 37_Automobile Electrical and Electronic Systems - Tom Denton
-	- [[Lecture notes -]]
+	- [[Lecture notes - Automobile Electrical and Electronic Systems]]
 - [] 35_Autodesk Robot Structural Analysis Professional 2015 - Essentials - Ken Marsh
-	- [[Lecture notes -]]
+	- [[Lecture notes - Autodesk Robot Structural Analysis Professional 2015]]
 - [] 34_Artificial Intelligence Basics. A Non-Technical Introduction - Tom Taulli
-	- [[Lecture notes -]]
+	- [[Lecture notes - Artificial Intelligence Basics]]
 - [] 33_Art of the Formula 1 Race Car - Peter Windsor
-	- [[Lecture notes -]]
+	- [[Lecture notes - Art of the Formula 1 Race Car]]
 - [] 32_Arduino Projects To Save The World By Emery Premeaux with Brian Evans
-	- [[Lecture notes -]]
+	- [[Lecture notes - Arduino Projects To Save The World]]
 - [] 25_Advanced mechanics of composite materials and structures - Morozov, Evgeny V. Vasiliev, Valery V.
-	- [[Lecture notes -]]
+	- [[Lecture notes - Advanced mechanics of composite materials and structures]]
 - [] 24_Advanced Brain Training - Brain Train Your Way to the Top_ A Teach Yourelf Guide - Simon Wootton & Terry Horne
-	- [[Lecture notes -]]
+	- [[Lecture notes - Advanced Brain Training]]
 - [] 23_Advanced automotive fault diagnosis _ automotive technology_ vehicle maintenance and repair - Tom Denton
-	- [[Lecture notes -]]
+	- [[Lecture notes - Advanced automotive fault diagnosis]]
 - [] 22_Adopting The Minimalist Mindset_ How To Live With Less, Downsize, And Get More Fulfillment From Life - Brain Night
-	- [[Lecture notes -]]
+	- [[Lecture notes - Adopting The Minimalist Mindset]]
 - [] 21_Additive Manufacturing Technologies_ 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - Additive Manufacturing Technologies]]
 - [] 19_A Textbook of Automobile Engineering - Sudhir Kumar Saxena
-	- [[Lecture notes -]]
+	- [[Lecture notes - A Textbook of Automobile Engineering]]
 - [] 18_CLEAN CODE - A Handbook of Agile Software Craftsmanship By Robert C Martin.pdf ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - CLEAN CODE]]
 - [] 17_A Geek in Japan - Discovering the Land of Manga, Anime, Zen, and the Tea Ceremony - Hector Garcia
-	- [[Lecture notes -]]
+	- [[Lecture notes - A Geek in Japan]]
 - [] 16_1340774899_Cahier-ANR-4-Intelligence-Artificielle
 	- [[Lecture notes -]]
 - [] 15_Engine Testing Theory and Practice - A.J.Marty - M.A.Plint
-	- [[Lecture notes -]]
+	- [[Lecture notes - Engine Testing Theory and Practice]]
 - [] 14_Engine Testing Theory and Practice - A.J.Marty - M.A.Plint
-	- [[Lecture notes -]]
+	- [[Lecture notes - Engine Testing Theory and Practice ]]
 - [] 10_24 Patterns for Clean Code. Techniques for Faster, Safer Code with Minimal Debugging - Robert Beisert
-	- [[Lecture notes -]]
+	- [[Lecture notes - 24 Patterns for Clean Code. Techniques for Faster, Safer Code with Minimal Debugging]]
 - [] 09_16 Jours pour développer la puissance de votre mémoire - Association Pedapole
-	- [[Lecture notes -]]
+	- [[Lecture notes - 16 Jours pour développer la puissance de votre mémoire]]
 - [] 08_13 Things Mentally Strong People Don't Do
-	- [[Lecture notes -]]
+	- [[Lecture notes - 13 Things Mentally Strong People Don't Do]]
 - [] 07_12 Rules for Life
-	- [[Lecture notes -]]
+	- [[Lecture notes - 12 Rules for Life]]
 - [] 06_Instant Notes - Plant Biology
-	- [[Lecture notes -]]
-- [] 05_Automatique de base
-	- [[Lecture notes -]]
+	- [[Lecture notes - Instant Notes]]
 - [] 179_Mechanical Engineering Principles, 3rd Edition [2015] - John Bird & Carl Ross
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mechanical Engineering Principles, 3rd Edition]]
 
 {Livres écrits en français}
+- [] 05_Automatique de base
+	- [[Lecture notes - Automatique de base]]
 - [] 78_Dunod - Automatique - Systèmes linéaires, non linéaires - 2e édition - Yves Granjon
-	- [[Lecture notes -]]
+	- [[Lecture notes - Dunod - Automatique - Systèmes linéaires, non linéaires]]
 - [] 52_Circuits integrés programmables et microprocesseurs - Mr Mazoughou GOEPOGUI
-	- [[Lecture notes -]]
-	- [[Lecture notes -]]
+	- [[Lecture notes - Circuits integrés programmables et microprocesseurs]]
 - [] 77_Dunod - Aide-Mémoire - Mécanique des structures - Résistance des matériaux - Dunod - Arnaud Delaplace & Fabrice Gatuingt & Frédéric Ragueneau
-	- [[Lecture notes -]]
+	- [[Lecture notes - Dunod - Aide-Mémoire - Mécanique des structures - Résistance des matériaux]]
 - [] 61_Comment plaire en 3 minutes, en tête-à-tête, au travail, en groupe - Patricia Delahaie
-	- [[Lecture notes -]]
+	- [[Lecture notes - Comment plaire en 3 minutes, en tête-à-tête, au travail, en groupe]]
 - [] 60_Comment le microbioite gouverne notre cerveau - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Comment le microbioite gouverne notre cerveau ]]
 - [] 59_Comment décoder les gestes de vos interlocuteurs et Etre Conscient des Votres - David Cohen
-	- [[Lecture notes -]]
+	- [[Lecture notes - Comment décoder les gestes de vos interlocuteurs et Etre Conscient des Votres]]
 - [] 58_Comme un chef - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Comme un chef]]
 - [] 54_CODEX - Les biais congitifs - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - CODEX - Les biais congitifs]]
 - [] 53_CODEX - Les biais congitifs - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - CODEX - Les biais congitifs]]
 - [] 36_Automates programmables industriels-Dunod, L’Usine nouvelle - Hervé Soulard
-	- [[Lecture notes -]]
+	- [[Lecture notes - Automates programmables industriels]]
 - [] 43_Big Data - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Big Data]]
 - [] 49_catalogue_matos_atelier - {{Nom_auteur}}
 	- [[Lecture notes -]]
 - [] 31_Apprendre l'électronique en partant de zéro - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Apprendre l'électronique en partant de zéro]]
 - [] 30_Apprendre la programmation web avec Python et Django - Hugues Bersini, Pierre Alexis, Gilles Degols - 2e Edition
 	- [[Lecture notes -]]
 - [] 29_Apprentissage artificiel - Concepts et algorithmes - Antoine Cornuéjols, Laurent Miclet, Jean-Paul Haton
