@@ -122,272 +122,273 @@ Progression :
 - [] 283_You Can Have An Amazing Memory - Dominic O'Brien
 	- [[Lecture notes - You can]]
 - [] 282_You Are a Badass - Jen Sincero
-	- [[Lecture notes -]]
+	- [[Lecture notes - You are a Badass]]
 - [] 280_Why We Sleep - Matthew Walker
-	- [[Lecture notes -]]
+	- [[Lecture notes - Why we sleep]]
 - [] 279_Viewing the Constellations with Binoculars - Anthony Cooke
-	- [[Lecture notes -]]
+	- [[Lecture notes - View the Constellations]]
 - [] 278_Vehicle Dynamics - Reza N.Jazar
-	- [[Lecture notes -]]
+	- [[Lecture notes - Vehicles Dynamics]]
 - [] 277_Understanding Normal and Clinical Nutrition - 8th Edition - Sharon Rady Rolfes
-	- [[Lecture notes -]]
+	- [[Lecture notes - Understading Normal and Clinical Nutrition]]
 - [] 276_Trees for Gardens, Orchards, and Permaculture - Martin Crawford
-	- [[Lecture notes -]]
+	- [[Lecture notes - Trees for Gardens, Orchards, and Permaculture]]
 - [] 275_TP Moteur à combustion interne - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - TP Moteur à combustion interne]]
 - [] 273_The Stars - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Stars]]
 - [] 272_The Self-Taught Programmer - Cory Althoff
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Self-Taught Programmer]]
 - [] 271_The Secrets of People Who Never Get Sick - Gene Stone
 	- [[Lecture notes -]]
 - [] 270_The Secret Code of Japanese Candlesticks - Felipe Tudela
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Secret Code of Japanese Candlesticks]]
 - [] 269_The Science of Good Cooking - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Science of Good Cooking]]
 - [] 268_The Science of Formula 1 Design - David Tremayne
-	- [[Lecture notes -]]
+	- [[Lecture notes -The Science of Formula 1 Design]]
 - [] 267_The Science of Cooking - Dr. Stuart Farrimond
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Science of Cooking]]
 - [] 266_The Python Book - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Python Book]]
 - [] 265_The Power of Visual Storytelling - Dan Roam
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Power of Visual Storytelling]]
 - [] 264_The Power of Self-Esteem - Nathaniel Branden
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Power of Self-Esteem]]
 - [] 263_The Power of Self-Esteem - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Power of Self-Esteem]]
 - [] 262_The Power of Positive Thinking - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Power of Positive Thinking]]
 - [] 261_The Power of Positive Thinking - Dr. Norman Vincent Peale
 	- [[Lecture notes -]]
 - [] 260_The Organized mind - Daniel J.Levitin
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Organized Mind]]
 - [] 259_The Miracle Morning - Hal Elrod
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Miracle Morning]]
 - [] 258_The Lucifer Effect - Philip Zimbardo
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Lucifer Effect]]
 - [] 257_The Japanese Experience - W.G.Beasley
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Japanese Experience]]
 - [] 256_The Intelligent negotiator - Charles Craver
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Intelligent negotiator]]
 - [] 255_The Food Lab - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Food Lab]]
 - [] 254_The Electronics Handbook - Jerry C.Whitaker
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Electronics Handbook]]
 - [] 253_The Dip - Seth Godin
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Dip]]
 - [] 252_The Creative Curve - Allen Gannett
 	- [[Lecture notes -]]
 - [] 251_The Brain - David Eagleman
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Creative Curve]]
 - [] 250_The Book of Yokai Mysterious Creatures of Japanese Folklore - Michael Dylan Foster
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Book of Yokai Mysterious Creatures of Japanese Folklore]]
 - [] 249_The Biomedical Engineering Handbook - 3th Edition - Joseph D.Bronzino & Donald R.Peterson
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Biomedical Engineering Handbook]]
 - [] 248_The Basics of Bitcoins and Blockchains - Anthony Lewis
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Basics of Bitcoins and Blockchains]]
 - [] 247_The Art of Work - Jeff Goins
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Art of Work]]
 - [] 246_The Art of the Pitch - Peter Coughter
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Art of the Pitch]]
 - [] 245_The Anatomy of Story - John Truby
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Anatomy of Story]]
 - [] 244_The Alter Ego Effect - Todd Herman
-	- [[Lecture notes -]]
+	- [[Lecture notes - The Alter Ego Effect]]
 - [] 243_The 8085 Microprocessor Architecture , Programming and Interfacing - K.Udaya Kumar & B.S.Umashankar
-	- [[Lecture notes -]]
+	- [[Lecture notes - The 8085 Microprocessor Architecture , Programming and Interfacing]]
 - [] 242_The 33 Strategies of War - Robert Greene
-	- [[Lecture notes -]]
+	- [[Lecture notes - The 33 Strategies of War]]
 - [] 241_The $100 Startup - Chris Guillebeau
-	- [[Lecture notes -]]
+	- [[Lecture notes - The $100 Startup]]
 - [R] 238_Steal Like an Artist - Austin Kleon
-	- [ ] [[Lecture notes -]]
+	- [ ] [[Lecture notes - Steal Like an Artist]]
 - [] 236_Sketch Now - Mike Yoshiaki Daikubara
-	- [[Lecture notes -]]
+	- [[Lecture notes - Sketch Now]]
 - [] 234_Scientific Molding Pocket - Routsis Training
-	- [[Lecture notes -]]
+	- [[Lecture notes - Scientific Molding Pocket]]
 - [] 233_Sapiens - Yuval Noah Harari
-	- [[Lecture notes -]]
+	- [[Lecture notes - Sapiens]]
 - [] 232_Rework - Jason Fried et David Heinemeier Hansson
-	- [[Lecture notes -]]
+	- [[Lecture notes - Rework]]
 - [] 229_Python_Programming_for_Arduino - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Python Programming for Arduino]]
 - [] 228_Python Scripts for ABAQUS - Gautam Puri
-	- [[Lecture notes -]]
+	- [[Lecture notes - Python Scripts for ABAQUS]]
 - [] 227_Purple Cow - Seth Godin
-	- [[Lecture notes -]]
+	- [[Lecture notes - Purple Cow]]
 - [] 226_Pulkrabek W.W. - 1997 - Willard W.Pulkrabek
-	- [[Lecture notes -]]
+	- [[Lecture notes - Pulkrabek W.W.]]
 - [] 221_Project Risk Management - Bissonette, Michael M. Bissonette, Mike
-	- [[Lecture notes -]]
+	- [[Lecture notes - Project Risk Management]]
 - [] 220_Project management workbook and PMPCAPM - Kerzner, Harold Saladis, Frank P. Saladis
-	- [[Lecture notes -]]
+	- [[Lecture notes - Project management workbook and PMPCAPM]]
 - [] 219_Pro HTML5 and CSS3 Design Patterns - Michael Bowers, Dionysios Synodinos & Victor Summer.
-	- [[Lecture notes -]]
+	- [[Lecture notes - Pro HTML5 and CSS3 Design Patterns]]
 - [] 218_Power system dynamics stability and control by Jan Machowski, Janusz Bialek, Dr Jim Bumby
-	- [[Lecture notes -]]
+	- [[Lecture notes - Power system dynamics stability and control]]
 - [] 217_Power of Habits - Charles Duhigg
-	- [[Lecture notes -]]
+	- [[Lecture notes - Power of Habits]]
 - [] 216_Power Electronics - PS bimbhra 
-	- [[Lecture notes -]]
+	- [[Lecture notes - Power Electronics]]
 - [] 215_Plasticity for Structural Engineers - Springer Verlag
-	- [[Lecture notes -]]
+	- [[Lecture notes - Plasticity for Structural Engineers]]
 - [] 214_Plant Biology and Biotechnology - Volume I - Bir Bahadur.
-	- [[Lecture notes -]]
+	- [[Lecture notes - Plant Biology and Biotechnology]]
 - [] 213_Pitch Perfect - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Pitch Perfect]]
 - [] 212_Pharmaceutical Production - An Engineering Guide - Bill Bennett & Graham Cole
-	- [[Lecture notes -]]
+	- [[Lecture notes - Pharmaceutical Production]]
 - [] 211_Permaculture Principles and Pathways Beyond Sustainability - David Holmgren
-	- [[Lecture notes -]]
+	- [[Lecture notes - Permaculture Principles and Pathways Beyond Sustainability]]
 - [] 210_Permaculture Design - Aranya
-	- [[Lecture notes -]]
+	- [[Lecture notes - Permaculture Design]]
 - [] 209_Peak - Anders Ericsson & Robert Pool
-	- [[Lecture notes -]]
+	- [[Lecture notes - Peak]]
 - [] 206_Numerical Simulation of Crash-Test For a formula sae car
-	- [[Lecture notes -]]
+	- [[Lecture notes - Numerical Simulation of Crash]]
 - [] 205_Numerical Modelling and Design of Electrical Machines and Devices - K.Hameyer & R.Belmans
-	- [[Lecture notes -]]
+	- [[Lecture notes - Numerical Modelling and Design of Electrical Machines and Devices]]
 - [] 204_Notations
 	- [[Lecture notes -]]
 - [] 203_Cal Newport - So good they can't ignore you
-	- [[Lecture notes -]]
+	- [[Lecture notes - So good they can't ignore you]]
 - [] 202_Never Split the Difference - Chris Voss
-	- [[Lecture notes -]]
+	- [[Lecture notes - Never Split the Difference]]
 - [] 201_Neuroscience - Mark F.Bear & Barry W. Connors & Micheal A.Paradiso
-	- [[Lecture notes -]]
+	- [[Lecture notes - Neuroscience]]
 - [] 200_Natural Language Processing with PyTorch - Delip Rao & Brian McMahan
-	- [[Lecture notes -]]
+	- [[Lecture notes - Natural Language Processing with PyTorch]]
 - [] 199_Nano-Engineering in Science and Technology - Micheal Rieth
-	- [[Lecture notes -]]
+	- [[Lecture notes - Nano-Engineering in Science and Technology]]
 - [] 198_Nano and Molecular Electronics Handbook - Sergey Edward Lyshevski
-	- [[Lecture notes -]]
+	- [[Lecture notes - Nano and Molecular Electronics Handbook]]
 - [] 197_Motor Vehicle Structures (Automotive Engineering) - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Motor Vehicle Structures]]
 - [] 196_Motion Control - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Motion Control]]
 - [] 194_Mold design Using PTC Creo Parametric (Pro Engineer) - {{Nom_auteur}}
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mold design Using PTC Creo Parametric]]
 - [] 193_Modern Japan - Christopher Goto-Jones
-	- [[Lecture notes -]]
+	- [[Lecture notes - Modern Japan]]
 - [] 192_Modern Japan - James L.Huffman
-	- [[Lecture notes -]]
+	- [[Lecture notes - Modern Japan]]
 - [] 191_Mnemonics Memory Palace - Sjur Midttun
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mnemonics Memory Palace]]
 - [] 190_Mistakes were made (but not by me) - Carol Tavris & Elliot Aronson
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mistakes were made (but not by me)]]
 - [] 189_Mind Hacking - Sir John Hargrave
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mind Hacking]]
 - [] 188_Mind Map Mastery - Dominic O'Brien
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mind Map Mastery]]
 - [] 187_Mind Hacks_ Tips & Tools for Using Your Brain - Tom Stafford & Matt Webb
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mind Hacks]]
 - [] 186_Mieux vivre avec ses émotions _ au travail ou en privé, comment développer son leadership émotionnel - Sylviane Retuerta
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mieux vivre avec ses émotions]]
 - [] 185_Microprocessors and Microcontrollers - NPTEL - Krishnakumar
-	- [[Lecture notes -]]
+	- [[Lecture notes - Microprocessors and Microcontrollers]]
 - [] 184_Microprocessor Architecture, Programming, and Applications with the 8085 - Ramesh S.Gaonkar
-	- [[Lecture notes -]]
+	- [[Lecture notes - Microprocessor Architecture, Programming, and Applications with the 8085]]
 - [] 183_Méthodes Numériques_ Algorithmes, analyse et applications - Alfio Quarteroni & Riccardo Sacco & Fausto Saleri
-	- [[Lecture notes -]]
+	- [[Lecture notes - Méthodes Numériques_ Algorithmes, analyse et applications]]
 - [] 182_Metals and How To Weld Them-The James F. Lincoln Arc Welding Foundation - T.B. Jefferson & Gorham Woods
-	- [[Lecture notes -]]
+	- [[Lecture notes - Metals and How To Weld Them]]
 - [] 172_Matrix Methods of Structural Analysis - Praveen Nagarajan
-	- [[Lecture notes -]]
+	- [[Lecture notes - Matrix Methods of Structural Analysis]]
 - [] 171_MATLAB Deep Learning_ With Machine Learning, Neural Networks and Artificial Intelligence - Phil Kim
-	- [[Lecture notes -]]
+	- [[Lecture notes - MATLAB Deep Learning]]
 - [] 170_Math--Soong_Fundamentals_of_probability_and_statistics_for_engineers - T.T. Soong
-	- [[Lecture notes -]]
+	- [[Lecture notes - Math]]
 - [] 168_Mastery - Robert Greene
-	- [[Lecture notes -]]
+	- [[Lecture notes - Mastery]]
 - [] 167_Mastering Machine Learning with Python in Six Steps_ A Practical Implementation Guide to Predictive Data Analytics Using Python - Manohar Swamynathan
+	- [[Lecture notes - Mastering Machine Learning with Python in Six Steps]] 
 - [] 166_Mark Manson - Everything Is F_cked  A Book About Hope-Harper ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - Everything Is F_cked]]
 - [] 163_Make Your Bed_ Little Things That Can Change Your Life And Maybe The World - Admiral William H.McRaven
-	- [[Lecture notes -]]
+	- [[Lecture notes - Make Your Bed]]
 - [] 162_Make It Stick - Peter C.Brown & Henry L.Roediger & Mark A. McDaniel
-	- [[Lecture notes -]]
+	- [[Lecture notes - Make It Stick]]
 - [] 161_Lonely Planet Japan -
-	- [[Lecture notes -]]
+	- [[Lecture notes - Lonely Planet Japan]]
 - [] 152_Learning to Solve Problems_ A Handbook for Designing Problem-Solving Learning Environments - David H.Jonassen
-	- [[Lecture notes -]]
+	- [[Lecture notes - Learning to Solve Problems]]
 - [] 151_Learning the Art of Electronics_ A Hands-On Lab Course - Thomas C.Hayes
-	- [[Lecture notes -]]
+	- [[Lecture notes - Learning the Art of Electronics]]
 - [] 150_Learning Astrology_ An Astrology Book for Beginners - Damian Sharp
-	- [[Lecture notes -]]
+	- [[Lecture notes - Learning Astrology]]
 - [] 146_Laugh Tactics_ Master Conversational Humor and Be Funny On Command - Think Quickly on Your Feet - Patrick King
-	- [[Lecture notes -]]
+	- [[Lecture notes - Laugh Tactics]]
 - [] 138_KUKA-Workbook
-	- [[Lecture notes -]]
+	- [[Lecture notes - Kuka]]
 - [] 137_Joseph Katz - Race car aerodynamics (Automotive Books & Manuals) - 1995
 	- [[Lecture notes -]]
 - [] 136_Italian vocabulary for English speakers - 5000 words ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - Italian vocabulary for English speakers]]
 - [] 135_Introduction to Machine Learning with Python - Andreas C.Muller & Sarah Guido
-	- [[Lecture notes -]]
+	- [[Lecture notes - Introduction to Machine Learning with Python]]
 - [] 134_Introduction to Human Nutrition 2nd Edition - Michael J.Gibney & Susan A.Lanham-New & Aedin Cassidy & Hester H Vorster
-	- [[Lecture notes -]]
+	- [[Lecture notes - Introduction to Human Nutrition 2nd Edition]]
 - [] 133_Intelligent Optimization of Mold Design and Process Parameters in Injection Molding - Mehdi Moayyedian
-	- [[Lecture notes -]]
+	- [[Lecture notes - Intelligent Optimization of Mold Design and Process Parameters in Injection Molding]]
 - [] 130_Indistractable_ How to Control Your Attention and Choose Your Life - Nir Eyal
-	- [[Lecture notes -]]
+	- [[Lecture notes - Indistractable]]
 - [] 129_Incognito_ The Secret Lives of the Brain - David Eagleman
-	- [[Lecture notes -]]
+	- [[Lecture notes - Incognito]]
 - [] 128_Ikigai _ the Japanese secret to a long and happy life - Hector Garcia & Francesc Miralles
-	- [[Lecture notes -]]
+	- [[Lecture notes - Ikigai]]
 - [] 127_How We Learn_ The Surprising Truth About When, Where, and Why It Happens - Benedict Carey
-	- [[Lecture notes -]]
+	- [[Lecture notes - How We Learn]]
 - [] 126_How To Win Friends and Influence People - Dale Carnegie
-	- [[Lecture notes -]]
+	- [[Lecture notes - How To Win Friends and Influence People]]
 - [] 125_How to Talk to Anyone - Leil Lowndes
-	- [[Lecture notes -]]
+	- [[Lecture notes - How to Talk to Anyone]]
 - [] 124_How To Talk To Absolutely Anyone_ Confident Communication in Every Situation - Mark Rhodes
-	- [[Lecture notes -]]
+	- [[Lecture notes - How To Talk To Absolutely Anyone]]
 - [] 123_How to Make Anyone Like You_ Proven Ways To Become A People Magnet - Leil Lowndes
-	- [[Lecture notes -]]
+	- [[Lecture notes - How to Make Anyone Like You]]
 - [] 122_How to Instantly Connect with Anyone 96 All-New Little Tricks for Big Success in Relationships - Leil Lowndes
-	- [[Lecture notes -]]
+	- [[Lecture notes - How to Instantly Connect with Anyone 96 All-New Little Tricks for Big Success in Relationships]]
 - [] 121_How to Build a Car_ The Autobiography of the World’s Greatest Formula 1 Designer - Adrian Newey
-	- [[Lecture notes -]]
-- [] 120_Livre - How to Be Invisible, Third Edition_ Protect Your Home, Your Children, Your Assets, and Your Life ( PDFDrive )
-	- [[Lecture notes -]]
+	- [[Lecture notes - How to Build a Car]]
+- [] 120_How to Be Invisible, Third Edition_ Protect Your Home, Your Children, Your Assets, and Your Life ( PDFDrive )
+	- [[Lecture notes - How to Be Invisible]]
 - [] 119_How to Be Invisible, Third Edition_ Protect Your Home, Your Children, Your Assets, and Your Life - J.J.Luna
 	- [[Lecture notes -]]
 - [] 118_How an Economy Grows and Why It Crashes. Peter D.Schiff
-	- [[Lecture notes -]]
+	- [[Lecture notes - How an Economy Grows and Why It Crashes]]
 - [] 117_Homo Deus_ A Brief History of Tomorrow - Yuval Noah Harari
-	- [[Lecture notes -]]
+	- [[Lecture notes - Homo Deus]]
 - [] 116_Home Robotics_ Maker-Inspired Projects for Building Your Own Robots - Daniel Knox
-	- [[Lecture notes -]]
+	- [[Lecture notes - Home Robotics]]
 - [] 115_Handbook of Mechanical Design - George F.Nordenholt & Joseph Kerr & John Sasso
-	- [[Lecture notes -]]
+	- [[Lecture notes - Handbook of Mechanical Design]]
 - [] 114_Handbook of Electrical Installation Practice - Goeffrey Stokes
-	- [[Lecture notes -]]
+	- [[Lecture notes - Handbook of Electrical Installation Practice]]
 - [] 113_Hager General Catalogue 1220
 	- [[Lecture notes -]]
 - [] 112_Guide_du_Technicien_en_Electronique - C.Cimelli & R.Bourgeron
-	- [[Lecture notes -]]
+	- [[Lecture notes - Guide_du_Technicien_en_Electronique]]
 - [] 111_Grit_ The Power of Passion and Perseverance - Angela DuckWorth
-	- [[Lecture notes -]]
+	- [[Lecture notes - Grit]]
 - [] 110_Grit to Great_ How Perseverance, Passion, and Pluck Take You from Ordinary to Extraordinary - Linda Kaplan Thaler & Robin Koval
-	- [[Lecture notes -]]
+	- [[Lecture notes - Grit to Great]]
 - [] 109_Good to Great_ Why Some Companies Make the Leap...And Others Don't - Jim Collins
-	- [[Lecture notes -]]
+	- [[Lecture notes - Good to Great]]
 - [] 108_Good Strategy_Bad Strategy - Richard Rumelt
-	- [[Lecture notes -]]
+	- [[Lecture notes - Good Strategy_Bad Strategy]]
 - [] 106_Give and Take_ WHY HELPING OTHERS DRIVES OUR SUCCESS - Adam Grant
-	- [[Lecture notes -]]
+	- [[Lecture notes - Give and Take]]
 - [] 105_Getting (More of) What You Want_ How the Secrets of Economics and Psychology Can Help You Negotiate Anything, in Business and in Life - Margaret A.Neale and Thomas Z.Lys
-	- [[Lecture notes -]]
+	- [[Lecture notes - Getting (More of) What You Want]]
 - [] 104_General rules of electrical installation design - Schneider Electric ( PDFDrive )
 	- [[Lecture notes -]]
 - [] 103_Fundamentals of Finite Element Analysis_ Linear Finite Element Analysis - Ioannis  Koutromanos
-	- [[Lecture notes -]]
+	- [[Lecture notes - Fundamentals of Finite Element Analysis]]
 - [] 102_Fundamentals of Digital Logic and Microcontrollers-Wiley (2014) - M.Rafiquzzaman
-	- [[Lecture notes -]]
+	- [[Lecture notes - Fundamentals of Digital Logic and Microcontrollers-Wiley]]
 - [] 101_Freakonomics - A Rogue Economist Explores the Hidden Side of Everything - Steven D.Levitt & Stephan J.Dubner
-	- [[Lecture notes -]]
+	- [[Lecture notes - Freakonomics]]
 - [] 100_formula-ford-report-en
 	- [[Lecture notes -]]
 - [] 99_food-microbiology-3rd-ed
