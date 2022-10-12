@@ -7,6 +7,19 @@ Status : [Read, Summary_Writed, Information_Extracted]
 
 Progression : 
 
+The Code Book - Simon Singh
+Social Engineering - The Art of Human Hacking - Wiley - Christopher Hadnagy
+Where Goods ideas come from - The Natural history of innovation - Steven Johnson
+Games People Play - Eric Berne
+Smart Thinking - Matthew Allen
+The 80/20 Principle - Richard Koch
+The Art of Creat - John Adair
+Moonwalking with Einstein - Joshua Foer
+How we got to Now - Steven Johnson
+Fairsighted - Steven Johnson
+
+
+
 The Second Mountain - David Brooks
 [[Lecture notes - ]]
 100 Days to Brave - Annie F. Downs 
