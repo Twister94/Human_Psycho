@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6a62385a361f59f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed490a63c0bf49d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4e54e5f56b37a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "24af68ab70ad8b63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f421ddf9bff2d155",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3bee14d51f0be55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Atomic_Habits/Advanced_Tactics_How_to_Go_from_Being_Merely_Good_to_Being_Truly_Great",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2eadb13ec337e0b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355
+  },
+  "right": {
+    "id": "47c9ba9052f1d003",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f22fd33dade9e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed016d3268edb61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1657c0d37cd17ab0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55f90b9797cbc689",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97f915e775f0d551",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5ed490a63c0bf49d",
+  "lastOpenFiles": [
+    "Lecture notes - Une mémoire extraordinaire - Jean Yves Ponce.md",
+    "README.md",
+    "Lecture notes - Keep Going - .md",
+    "Boundaries - When to Say Yes, How to Say No to Take Control of Your Life - Henry Cloud.md",
+    "Livre - turning-pro-steven-pressfield.md",
+    "Les accords toltèques - Don Miguel Ruiz/Introduction  Le Mirroir de Fumée.md",
+    "The Things You Can See Only When You Slow Down_ How to Be Calm and Mindful in a Fast-Paced World ( PDFDrive ).md",
+    "The Japanese mind - Roger J.Davies, Osamu Ikeno/Zōtō  The Japanese Custom of Gift Giving 1.md",
+    "The Japanese mind - Roger J.Davies, Osamu Ikeno/Sōshiki  Japanese Funerals 1.md",
+    "The Japanese mind - Roger J.Davies, Osamu Ikeno/The Dō Spirit of Japan.md"
+  ]
+}

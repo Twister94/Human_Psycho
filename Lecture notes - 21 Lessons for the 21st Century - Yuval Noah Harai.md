@@ -1,0 +1,45 @@
+
+##### 21 Lessons for the 21st Century - Yuval Noah Harai - 
+Visibilité : #Visibilité/Obisidian_Graph/Mode_On 
+Type de la note : #Méthode_Zettelkasen/Note_Lecture
+MOC :
+Auteur de la note : #Auteur/Twister94
+Tags:  #Etat_note/Obsidian/Nouvelle_note  #21_Lessons_for_the_21st_Century/Summary
+Fichiers sources : 
+***
+
+
+Sommaire du livre : 
+
+#21_Lessons_for_the_21st_Century/Introduction
+
+#21_Lessons_for_the_21st_Century/Part_I_The_Technological_Challenge
+#21_Lessons_for_the_21st_Century/Part_I_The_Technological_Challenge/1_DISILLUSIONMENT
+#21_Lessons_for_the_21st_Century/Part_I_The_Technological_Challenge/2_WORK
+#21_Lessons_for_the_21st_Century/Part_I_The_Technological_Challenge/3_LIBERTY
+#21_Lessons_for_the_21st_Century/Part_I_The_Technological_Challenge/4_EQUALITY
+
+#21_Lessons_for_the_21st_Century/Part_II_The_Political_Challenge
+#21_Lessons_for_the_21st_Century/Part_II_The_Political_Challeng/5_COMMUNITY
+#21_Lessons_for_the_21st_Century/Part_II_The_Political_Challeng/6_CIVILISATION
+#21_Lessons_for_the_21st_Century/Part_II_The_Political_Challeng/7_NATIONALISM
+#21_Lessons_for_the_21st_Century/Part_II_The_Political_Challeng/8_RELIGION
+#21_Lessons_for_the_21st_Century/Part_II_The_Political_Challeng/9_IMMIGRATION
+
+#21_Lessons_for_the_21st_Century/Part_III_Despair_and_Hope
+#21_Lessons_for_the_21st_Century/Part_III_Despair_and_Hope/10_TERRORISM
+#21_Lessons_for_the_21st_Century/Part_III_Despair_and_Hope/11_WAR
+#21_Lessons_for_the_21st_Century/Part_III_Despair_and_Hope/12_HUMILITY
+#21_Lessons_for_the_21st_Century/Part_III_Despair_and_Hope/13_GOD
+#21_Lessons_for_the_21st_Century/Part_III_Despair_and_Hope/14_SECULARISM
+
+#21_Lessons_for_the_21st_Century/Part_IV_Truth
+#21_Lessons_for_the_21st_Century/Part_IV_Truth/15_IGNORANCE
+#21_Lessons_for_the_21st_Century/Part_IV_Truth/16_JUSTICE
+#21_Lessons_for_the_21st_Century/Part_IV_Truth/17_POST-TRUTH
+#21_Lessons_for_the_21st_Century/Part_IV_Truth/18_SCIENCE_FICTION
+
+#21_Lessons_for_the_21st_Century/Part_V_Resilience
+#21_Lessons_for_the_21st_Century/Part_V_Resilience/19_EDUCATION
+#21_Lessons_for_the_21st_Century/Part_V_Resilience/20_MEANING
+#21_Lessons_for_the_21st_Century/Part_V_Resilience/21_MEDITATION
